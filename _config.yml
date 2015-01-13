@@ -1,2 +1,4 @@
-markdown: redcarpet
+auto: true
+server: true
+markdown: kramdown
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
