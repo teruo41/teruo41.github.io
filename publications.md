@@ -26,4 +26,4 @@ title: Publications
 #### Posters
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
-   Poster session at the 28th International Conference on Supercomputing (ICS '14), June 2014.
+   In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, June 2014.
