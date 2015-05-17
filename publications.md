@@ -19,9 +19,11 @@ title: Publications
 #### Workshop Papers
 -->
 
-<!--
 #### Journal Papers
--->
+
+1. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi and Jun Tanaka,  
+   ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
+   IEICE Transaction on Information and Systems. (to appear)
 
 #### Posters
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima and Takashi Miyoshi,  
