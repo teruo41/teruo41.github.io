@@ -15,9 +15,11 @@ title: Publications
    ***Scalability-based Manycore Partitioning,***  
    In Proceedings of the 21st International Conference on Parallel Architectures and Compilation Techniques (PACT '12), pp.107-116, Sep. 2012. (acceptance rate: 39/207=18.8%)
 
+
 <!--
 #### Workshop Papers
 -->
+
 
 #### Journal Papers
 
@@ -29,7 +31,9 @@ title: Publications
    ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
    IEICE Transaction on Information and Systems, Vol.E98-D, No.12, pp.2168-2177
 
+
 #### Posters
+
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima, and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
-   In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, June 2014.
+   In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, Jun. 2014.
