@@ -21,9 +21,12 @@ title: Publications
 
 #### Journal Papers
 
-1. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi and Jun Tanaka,  
+1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,
+   ***Heavy tails in program structure,***
+   IEEE Computer Architecture Letters (CAL), 2016. (accepted)
+2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi and Jun Tanaka,  
    ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
-   IEICE Transaction on Information and Systems. (to appear)
+   IEICE Transaction on Information and Systems, Vol.E98-D, No.12, pp.2168-2177
 
 #### Posters
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima and Takashi Miyoshi,  
