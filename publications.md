@@ -23,8 +23,8 @@ title: Publications
 
 #### Journal Papers
 
-1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,
-   ***Heavy Tails in Program Structure,***
+1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
+   ***Heavy Tails in Program Structure,***  
    IEEE Computer Architecture Letters (CAL), 2016. (accepted)
 
 2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
