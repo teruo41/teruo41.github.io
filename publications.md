@@ -3,9 +3,9 @@ layout: default
 title: Publications
 ---
 
-### Publications
+## Publications
 
-#### Conference Papers
+### Conference Papers
 
 1. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
@@ -17,11 +17,11 @@ title: Publications
 
 
 <!--
-#### Workshop Papers
+### Workshop Papers
 -->
 
 
-#### Journal Papers
+### Journal Papers
 
 1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Heavy Tails in Program Structure,***  
@@ -32,12 +32,12 @@ title: Publications
    IEICE Transaction on Information and Systems, Vol.E98-D, No.12, pp.2168-2177
 
 
-#### Posters
+### Posters
 
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima, and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
    In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, Jun. 2014.
 
-#### Awards
+### Awards
 
 1. IPSJ SIGARC Young Researcher Award (2016)
