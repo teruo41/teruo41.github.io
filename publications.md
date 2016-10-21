@@ -25,7 +25,9 @@ title: Publications
 
 1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Heavy Tails in Program Structure,***  
-   IEEE Computer Architecture Letters , vol.PP, no.99, pp.1-1
+   IEEE Computer Architecture Letters , vol.PP, no.99, pp.1-1  
+   [paper](https://sites.google.com/site/hrshssk/ht-cal-preprint.pdf?attredirects=0)
+
 
 2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
