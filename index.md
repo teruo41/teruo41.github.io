@@ -4,8 +4,17 @@ title: Home
 ---
 
 ## Home
-I am a Ph.D. student at Cyber Physical Computing Laboratory, Kyushu University, Japan.
+I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http://www.cpc.ait.kyushu-u.ac.jp/~koji.inoue/) and [Dr. Hiroshi sasaki](https://sites.google.com/site/hrshssk/).
+
+### Research interests
+  - Computer architecture
+  - Parallel processing
+  - Interconnects
+  - Operating systems
+  - Dynamic programming languages
+
 <!--
+I am a Ph.D. student at Cyber Physical Computing Laboratory, Kyushu University, Japan.
 I am a Researcher at Fujitsu Laboratories Limited, Kawasaki, Japan.
 -->
 
