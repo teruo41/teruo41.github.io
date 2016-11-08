@@ -8,6 +8,7 @@ I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http:/
 
 ### Research interests
   - Computer architecture
+  - Hardware/software co-design
   - Parallel processing
   - Interconnects
   - Operating systems
