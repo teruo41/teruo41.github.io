@@ -42,4 +42,4 @@ title: Publications
 
 ### Awards
 
-1. IPSJ SIGARC Young Researcher Award (2016)
+1. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html) (The site is in Japanese.)
