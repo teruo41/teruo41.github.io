@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Home
-I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http://www.cpc.ait.kyushu-u.ac.jp/~koji.inoue/) and [Dr. Hiroshi sasaki](https://sites.google.com/site/hrshssk/).
+I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http://www.cpc.ait.kyushu-u.ac.jp/~koji.inoue/) and [Dr. Hiroshi Sasaki](https://sites.google.com/site/hrshssk/).
 
 ### Research interests
   - Computer architecture
