@@ -23,13 +23,15 @@ title: Publications
 
 ### Journal Papers
 
-1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
+1. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, Hiroshi Sasaki,
+   ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
+   IEEE Computer Architecture Letters, vol.PP, no.99, pp.1-1, Mar. 2017.  
+
+2. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Heavy Tails in Program Structure,***  
-   IEEE Computer Architecture Letters , vol.PP, no.99, pp.1-1, May 2016.  
-   [preprint](https://sites.google.com/site/hrshssk/ht-cal-preprint.pdf?attredirects=0)
+   IEEE Computer Architecture Letters, vol.PP, no.99, pp.1-1, May 2016. ([preprint](https://sites.google.com/site/hrshssk/ht-cal-preprint.pdf?attredirects=0))
 
-
-2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
+3. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
    IEICE Transaction on Information and Systems, Vol.E98-D, No.12, pp.2168-2177, Dec. 2015.
 
