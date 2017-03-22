@@ -47,7 +47,7 @@ title: Publications
 1. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima, and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
    In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, Jun. 2014. 
-   ([ACM DL](http://dl.acm.org/citation.cfm?id=2600113))
+   ([ACMDL](http://dl.acm.org/citation.cfm?id=2600113))
 
 ### Awards
 
