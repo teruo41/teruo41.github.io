@@ -14,7 +14,8 @@ title: Publications in Japanese
 0. __谷本輝夫,__ 佐々木広, 小野貴継, 井上弘士,  
   ***アウトオブオーダ命令実行の依存グラフ表現に関する考察,***  
   情報処理学会研究報告, Vol.2016-ARC-221 No.11, pp.1-8, 2016年8月.  
-  （[情報処理学会コンピュータ・システム研究会若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)）
+  （[情報処理学会コンピュータ・システム研究会若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)）  
+  （[電子情報通信学会コンピュータシステム研究専門委員会研究会優秀若手講演賞](https://www.ipsj.or.jp/award/arc-award1.html)）
 
 0. __谷本輝夫,__ 小野貴継, 中島耕太, 三吉貴史,  
   ***共有受信キューに基づくスケーラブルなプロセッサ間通信の提案,***  
@@ -42,7 +43,7 @@ title: Publications in Japanese
 
 ### 受賞
 
-0. [電子情報通信学会 コンピュータシステム研究専門委員会 2016年度研究会優秀若手講演賞](http://www.ieice.org/~cpsy/award.html.ja)，2017年7月．
+0. [電子情報通信学会 コンピュータシステム研究専門委員会(CPSY) 2016年度研究会優秀若手講演賞](http://www.ieice.org/~cpsy/award.html.ja)，2017年7月．
 
-0. [情報処理学会 コンピュータ・システム研究会 2016年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)，2016年10月．
+0. [情報処理学会 コンピュータ・システム研究会(SIGARC) 2016年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)，2016年10月．
 
