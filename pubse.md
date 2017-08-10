@@ -13,7 +13,7 @@ title: Publications
 
 2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
-   In Proceedings of IEEE International Conference on Big Data (IEEE BigData '14), pp.147-152, Oct. 2014. 
+   In Proceedings of IEEE International Conference on Big Data (IEEE BigData '14, accepted as a short paper), pp.147-152, Oct. 2014. 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7004224/))
         
 3. Hiroshi Sasaki, __Teruo Tanimoto,__ Koji Inoue, and Hiroshi Nakamura,  
