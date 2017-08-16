@@ -9,7 +9,7 @@ title: Publications
 
 1. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Why Do Programs Have Heavy Tails?,***  
-   In Proceedings of IEEE International Symposium on Workload Characterization (IISWC '17), (to appear), Oct. 2017. (acceptance rate: 23/83=27.7%)
+   In Proceedings of IEEE International Symposium on Workload Characterization (IISWC '17), Oct. 2017, (to appear). (acceptance rate: 23/83=27.7%)
 
 2. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
@@ -31,12 +31,12 @@ title: Publications
 
 1. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
-   IEEE Computer Architecture Letters, vol.PP, no.99, pp.1-1, Mar. 2017. 
+   IEEE Computer Architecture Letters, Vol.PP, No.99, pp.1-1, Mar. 2017. 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7882625/))
 
 2. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Heavy Tails in Program Structure,***  
-   IEEE Computer Architecture Letters, vol.PP, no.99, pp.1-1, May 2016. 
+   IEEE Computer Architecture Letters, Vol.16, No.1, pp.34-37, Jan-Jun 2017. 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7480837/) 
     [preprint](https://sites.google.com/site/hrshssk/ht-cal-preprint.pdf?attredirects=0))
 
