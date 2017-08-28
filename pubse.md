@@ -15,7 +15,7 @@ title: Publications
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
    In Proceedings of IEEE International Conference on Big Data (IEEE BigData '14, accepted as a short paper), pp.147-152, Oct. 2014. 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7004224/))
-        
+
 0. Hiroshi Sasaki, __Teruo Tanimoto,__ Koji Inoue, and Hiroshi Nakamura,  
    ***Scalability-based Manycore Partitioning,***  
    In Proceedings of the 21st International Conference on Parallel Architectures and Compilation Techniques (PACT '12), pp.107-116, Sep. 2012. (acceptance rate: 39/207=18.8%) 
@@ -32,7 +32,7 @@ title: Publications
 0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
    ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***  
    IPSJ Transactions on Advanced Computer Architecture. (Accepted)
-   
+
 0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
    IEEE Computer Architecture Letters, Vol.PP, No.99, pp.1-1, Mar. 2017. 
