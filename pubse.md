@@ -42,7 +42,7 @@ title: Publications
 
 0. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***A Flexible Direct Attached Storage for a Data Intensive Application,***  
-   IEICE Transaction on Information and Systems, Vol.E98-D, No.12, pp.2168-2177, Dec. 2015. 
+   IEICE Transactions on Information and Systems, Vol.E98-D, No.12, pp.2168-2177, Dec. 2015. 
    ([IEICE](https://search.ieice.org/bin/summary.php?id=e98-d_12_2168))
 
 
