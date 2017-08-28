@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400italic,700italic,400,700);
 
 body {
-  padding:50px;
+  padding:10px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
   font-weight:400;
@@ -46,7 +46,7 @@ a small {
 }
 
 .wrapper {
-  width:860px;
+  width:940px;
   margin:0 auto;
 }
 
@@ -160,9 +160,9 @@ header ul a strong {
 }
 
 section {
-  width:640px;
+  width:720px;
   float:right;
-  padding-bottom:50px;
+  padding-bottom:10px;
 }
 
 small {
@@ -177,10 +177,10 @@ hr {
 }
 
 footer {
-  width:240px;
+  width:210px;
   float:left;
   position:fixed;
-  bottom:50px;
+  bottom:10px;
 }
 
 @media print, screen and (max-width: 960px) {
