@@ -55,4 +55,6 @@ title: Publications
 
 ### Awards
 
-0. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), Oct. 2016. (The site is in Japanese.)
+0. [IPSJ Computer Science Research Award for Young Scientists (2017)](http://www.ipsj.or.jp/award/cs-award-2017.html). (The link is in Japanese.)
+
+0. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), Oct. 2016. (The link is in Japanese.)
