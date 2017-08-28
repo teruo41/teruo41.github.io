@@ -29,8 +29,8 @@ title: Publications
 
 ### Journal Papers
 
-0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,
-   ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***
+0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
+   ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***  
    IPSJ Transactions on Advanced Computer Architecture. (Accepted)
    
 0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, Hiroshi Sasaki,  
