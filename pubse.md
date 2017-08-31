@@ -8,7 +8,7 @@ title: Publications
 ### Conference Papers
 
 0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
-   ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***
+   ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
    In Proceedings of the Fifth International Symposium on Computing and Networking. (to appear)
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
