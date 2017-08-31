@@ -223,6 +223,18 @@ footer {
     word-wrap:break-word;
   }
   
+  h1, h2 {
+    margin:0 0 5px;
+  }
+
+  h3, h4, h5, h6 {
+    margin: 15px 0 5px
+  }
+
+  p, ul, ol, table, pre, dl {
+    margin:0 0 5px;
+  }
+
   header {
     padding:0;
   }
@@ -241,15 +253,11 @@ footer {
     padding:2px;
   }
   
-  h1, h2, h3, h4, h5, h6 {
-    color:#222;
-  }
-
-  h1, {
+  h1, h2 {
     margin:0 0 5px;
   }
 
-  h2, h3, h4, h5, h6 {
+  h3, h4, h5, h6 {
     margin: 15px 0 5px
   }
 
