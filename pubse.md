@@ -7,6 +7,10 @@ title: Publications
 
 ### Conference Papers
 
+0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
+   ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***
+   In Proceedings of the Fifth International Symposium on Computing and Networking. (to appear)
+
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Why Do Programs Have Heavy Tails?,***  
    In Proceedings of IEEE International Symposium on Workload Characterization (IISWC '17), Oct. 2017, (to appear)<!-- (acceptance rate: 23/83=27.7%)-->
@@ -56,6 +60,7 @@ title: Publications
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
    In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, Jun. 2014. 
    ([ACMDL](http://dl.acm.org/citation.cfm?id=2600113))
+
 
 ### Awards
 
