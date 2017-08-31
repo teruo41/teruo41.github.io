@@ -238,9 +238,13 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding:2px;
   }
   
+  p, ul, ol, table, pre, dl {
+    margin:0 0 5px;
+  }
+
   header ul {
     display:none;
   }
