@@ -7,7 +7,7 @@ title: Publications
 
 ### Conference Papers
 
-0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
+0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
    In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), Nov. 2017. (to appear)<!-- (acceptance rate: 25/73=34.2%)-->
 
@@ -33,11 +33,11 @@ title: Publications
 
 ### Journal Papers
 
-0. __Teruo Tanimoto__, Takatsugu Ono, Koji Inoue,  
+0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***  
    IPSJ Transactions on Advanced Computer Architecture. (Accepted)
 
-0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, Hiroshi Sasaki,  
+0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, and Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
    IEEE Computer Architecture Letters, Vol.PP, No.99, pp.1-1, Mar. 2017. 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7882625/))
