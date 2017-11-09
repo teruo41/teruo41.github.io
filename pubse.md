@@ -13,7 +13,8 @@ title: Publications
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Why Do Programs Have Heavy Tails?,***  
-   In Proceedings of IEEE International Symposium on Workload Characterization (IISWC '17), Oct. 2017, (to appear)<!-- (acceptance rate: 23/83=27.7%)-->
+   In Proceedings of the 2017 IEEE International Symposium on Workload Characterization (IISWC '17), pp.135-145, Oct. 2017.  
+   (acceptance rate: 23/83=27.7%)
 
 0. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
@@ -22,7 +23,8 @@ title: Publications
 
 0. Hiroshi Sasaki, __Teruo Tanimoto,__ Koji Inoue, and Hiroshi Nakamura,  
    ***Scalability-based Manycore Partitioning,***  
-   In Proceedings of the 21st International Conference on Parallel Architectures and Compilation Techniques (PACT '12), pp.107-116, Sep. 2012. (acceptance rate: 39/207=18.8%) 
+   In Proceedings of the 21st International Conference on Parallel Architectures and Compilation Techniques (PACT '12), pp.107-116, Sep. 2012.  
+   (acceptance rate: 39/207=18.8%) 
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7842923/))
 
 
