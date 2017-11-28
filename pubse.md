@@ -9,7 +9,8 @@ title: Publications
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
-   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017. (acceptance rate: 25/73=34.2%)
+   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017.  
+  (acceptance rate: 25/73=34.2%)
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Why Do Programs Have Heavy Tails?,***  
