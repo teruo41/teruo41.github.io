@@ -9,7 +9,7 @@ title: Publications
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
-   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), Nov. 2017. (to appear)<!-- (acceptance rate: 25/73=34.2%)-->
+   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017. (acceptance rate: 25/73=34.2%)
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Why Do Programs Have Heavy Tails?,***  
@@ -37,7 +37,8 @@ title: Publications
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***  
-   IPSJ Transactions on Advanced Computer Architecture. (Accepted)
+   IPSJ Journal of Information, Vol.25, 2017.  
+   (also published in IPSJ Transactions on Advanced Computer Systems, Vol.10, No.3)
 
 0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, and Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
