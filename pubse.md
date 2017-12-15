@@ -41,7 +41,7 @@ title: Publications
    IPSJ Journal of Information Processing, Vol.25, pp.983-992, Dec. 2017.  
    (also printed in IPSJ Transactions on Advanced Computer Systems, Vol.10, No.3)  
   ([IPSJJIP](https://www.jstage.jst.go.jp/article/ipsjjip/25/0/25_983/_article/-char/en)) 
-  ([IPSJACS (in Japanese)](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=184261&item_no=1&page_id=13&block_id=8))
+  ([IPSJACS](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=184261&item_no=1&page_id=13&block_id=8))
 
 0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, and Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
@@ -69,6 +69,6 @@ title: Publications
 
 ### Awards
 
-0. [IPSJ Computer Science Research Award for Young Scientists (2017)](http://www.ipsj.or.jp/award/cs-award-2017.html). (The link is in Japanese.)
+0. [IPSJ Computer Science Research Award for Young Scientists (2017)](http://www.ipsj.or.jp/award/cs-award-2017.html), Nov. 2017. (The site is in Japanese.)
 
-0. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), Oct. 2016. (The link is in Japanese.)
+0. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), Oct. 2016. (The site is in Japanese.)
