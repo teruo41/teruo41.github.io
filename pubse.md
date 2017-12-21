@@ -16,6 +16,7 @@ title: Publications
    ***Why Do Programs Have Heavy Tails?,***  
    In Proceedings of the 2017 IEEE International Symposium on Workload Characterization (IISWC '17), pp.135-145, Oct. 2017.  
    (acceptance rate: 23/83=27.7%)  
+   ([IEEEXplore](http://ieeexplore.ieee.org/document/8167771/))
 
 0. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
    ***FlexDAS: A Flexible Direct Attached Storage for I/O Intensive Applications,***  
