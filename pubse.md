@@ -46,12 +46,12 @@ title: Publications
 
 0. __Teruo Tanimoto,__ Takatsugu Ono, Koji Inoue, and Hiroshi Sasaki,  
    ***Enhanced Dependence Graph Model for Critical Path Analysis on Modern Out-of-Order Processors,***  
-   IEEE Computer Architecture Letters, Vol.PP, No.99, pp.1-1, Mar. 2017.  
+   IEEE Computer Architecture Letters, Vol.16, No.2, pp.111-114, July-Dec. 2017.  
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7882625/))
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
    ***Heavy Tails in Program Structure,***  
-   IEEE Computer Architecture Letters, Vol.16, No.1, pp.34-37, Jan-Jun 2017.  
+   IEEE Computer Architecture Letters, Vol.16, No.1, pp.34-37, Jan.-June 2017.  
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7480837/))
 
 0. Takatsugu Ono, Yotaro Konishi, __Teruo Tanimoto,__ Noboru Iwamatsu, Takashi Miyoshi, and Jun Tanaka,  
