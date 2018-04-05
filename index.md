@@ -4,7 +4,8 @@ title: Home
 ---
 
 ## Home
-I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http://www.cpc.ait.kyushu-u.ac.jp/~koji.inoue/) and [Dr. Hiroshi Sasaki](https://sites.google.com/site/hrshssk/).
+
+I am an Assistant Professor at Research Institute for Information Technology at Kyushu Unversity.
 
 ### Research interests
   - Computer architecture
@@ -14,13 +15,5 @@ I am a Ph.D. student at Kyushu University working with [Prof. Koji Inoue](http:/
   - Operating systems
   - Dynamic programming languages
 
-<!--
-I am a Ph.D. student at Cyber Physical Computing Laboratory, Kyushu University, Japan.
-I am a Researcher at Fujitsu Laboratories Limited, Kawasaki, Japan.
--->
-
 ### Email
-teruo.tanimoto __[at]__ cpc.ait.kyushu-u.ac.jp
-<!--
-teruo.tanimoto __[at]__ gmail.com
--->
+tteruo __[at]__ kyudai.jp
