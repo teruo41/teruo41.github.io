@@ -5,7 +5,7 @@ title: Home
 
 ## Home
 
-I am an Assistant Professor at Research Institute for Information Technology at Kyushu Unversity.
+I am an Assistant Professor at Research Institute for Information Technology, Kyushu Unversity.
 
 ### Research interests
   - Computer architecture
@@ -16,4 +16,6 @@ I am an Assistant Professor at Research Institute for Information Technology at 
   - Dynamic programming languages
 
 ### Email
-tteruo __[at]__ kyudai.jp
+  - tteruo __[at]__ kyudai.jp
+  - tanimoto.teruo.547@m.kyushu-u.ac.jp
+  - teruo.tanimoto@gmail.com
