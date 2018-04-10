@@ -17,5 +17,5 @@ I am an Assistant Professor at Research Institute for Information Technology, Ky
 
 ### Email
   - tteruo __[at]__ kyudai.jp
-  - tanimoto.teruo.547@m.kyushu-u.ac.jp
-  - teruo.tanimoto@gmail.com
+  - tanimoto.teruo.547 __[at]__ m.kyushu-u.ac.jp
+  - teruo.tanimoto __[at]__ gmail.com
