@@ -9,7 +9,8 @@ title: Publications
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
-   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017.  
+   In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017.   
+   ([IEEEXplore](https://ieeexplore.ieee.org/document/8345426/))
    (acceptance rate: 25/73=34.2%)
 
 0. Hiroshi Sasaki, Fang-Hsiang Su, __Teruo Tanimoto,__ and Simha Sethumadhavan,  
@@ -64,7 +65,7 @@ title: Publications
 
 0. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima, and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
-   In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), pp.175-175, Jun. 2014.  
+   In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), p.175, Jun. 2014.  
    ([ACMDL](http://dl.acm.org/citation.cfm?id=2600113))
 
 
