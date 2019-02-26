@@ -6,8 +6,8 @@ title: About me
 ## About me
 
 ### Short biography
-+ Oct. 2018 to present, Currently with Cybersecurity Center, Kyushu University
-+ Apr. 2018 to present, Assistant Professor at Research Institute for Information Technology, Kyushu University
++ Oct. 2018 to present, Currently with [Cybersecurity Center](https://cs.kyushu-u.ac.jp/en/), Kyushu University, Japan
++ Apr. 2018 to present, Assistant Professor at [Research Institute for Information Technology](http://ri2t.kyushu-u.ac.jp/), Kyushu University, Japan
 + Received Ph.D. from Kyushu University in Mar. 2018
 + Apr. 2015 to Mar. 2018, Ph.D. course at [Cyber Physical Computing Laboratory](http://www.cpc.ait.kyushu-u.ac.jp/), Kyushu University, Japan
 + Mar. 2016 to May 2016, Visiting scholar at the reasearch group of [Prof. Simha Sethumadhavan](http://www.cs.columbia.edu/~simha/), Columbia University, USA
