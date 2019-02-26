@@ -7,6 +7,11 @@ title: Publications in Japanese
 
 ### 口頭発表（査読なし）
 
+0. 原凌司, 井上優良, __谷本輝夫__, 大澤隆志, 丸岡晃, 飯塚拓郎, 井上 弘士,  
+   ***高位合成用DSLコンパイラを用いたコーナー検出処理のハードウェア実装,***  
+   研究報告システム・アーキテクチャ（ARC）, Vol.2018-ARC-233 No.11, pp.1-8, 2018年11月.  
+   （[情報処理学会電子図書館](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=192430&item_no=1&page_id=13&block_id=8)）
+
 0. __谷本輝夫,__ 小野貴継, 井上弘士,  
   ***アウトオブオーダプロセッサのクリティカルパス解析に基づくボトルネック命令チェーン抽出手法の提案,***  
   情報処理学会研究報告, Vol.2018-ARC-232 No.4, pp.1-10, 2018年7月.  
