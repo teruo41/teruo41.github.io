@@ -38,6 +38,10 @@ title: Publications
 
 ### Journal Papers
 
+0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,
+   ***Critical Path based Microarchitectural Bottleneck Analysis for Out-of-Order Execution,***
+   IEICE Transactions (accepted).
+
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Dependence Graph Model for Accurate Critical Path Analysis on Out-of-Order Processors,***  
    IPSJ Journal of Information Processing, Vol.25, pp.983-992, Dec. 2017.  
