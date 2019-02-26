@@ -53,7 +53,7 @@ title: Publications in Japanese
 
 ### 受賞
 
-0. [2017年度研究会推薦博士論文](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html)，2018年5月．
+0. [情報処理学会 2017年度研究会推薦博士論文](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html)，2018年5月．
 
 0. [情報処理学会 2017年度コンピュータサイエンス領域奨励賞](http://www.ipsj.or.jp/award/cs-award-2017.html)，2017年11月．
 
