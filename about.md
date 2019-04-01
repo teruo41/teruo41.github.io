@@ -25,7 +25,9 @@ title: About me
 
 ### Research Grants
 + PI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Early-Career Scientist.
+
 <!--
 + CI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Scientific Research (A).
 -->
+
 + PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen).
