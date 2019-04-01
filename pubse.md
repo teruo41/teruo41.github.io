@@ -76,8 +76,7 @@ title: Publications
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Graph-based performance analysis on Out-of-Order processors,***  
-   The seventh Asian Workshop on Smart Sensor Systems, Mar. 2018.
-   (invited)
+   The seventh Asian Workshop on Smart Sensor Systems, Mar. 2019.
 
 ### Awards
 
