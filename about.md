@@ -14,14 +14,18 @@ title: About me
 + Apr. 2012 to Mar. 2015, Researcher at [Fujitsu Laboratories Limited](http://www.fujitsu.com/jp/group/labs/en/), Kawasaki, Japan
 + Received B.E. and M.S. from The University of Tokyo in 2010 and 2012, respectively
 
-<!--
-### Teaching
-+ Cybersecurity basis
-+ Introduction of Information Processing
--->
+### Classes
++ Introduction to Cybersecurity (in Japanese)
++ Introduction to Information Processing (in Japanese)
 
 ### Community activities
++ Apr. 2019 - Mar. 2021, Committee member, IPSJ (Information Processing Society of Japan) SIGARCH.
++ Program committee member, xSIG 2019 (domestic conference).
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese.)
 
-### Projects
-+ Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen)
+### Research Grants
++ PI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Early-Career Scientist.
+<!--
++ CI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Scientific Research (A).
+-->
++ PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen).
