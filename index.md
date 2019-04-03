@@ -10,7 +10,7 @@ I am an Assistant Professor at Research Institute for Information Technology, Ky
 ### Recent publications
   - __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
     ***Critical Path based Microarchitectural Bottleneck Analysis for Out-of-Order Execution,***  
-    IEICE Transactions (accepted).
+    IEICE Transactions (in press).
 
 ### Research interests
   - Computer architecture
