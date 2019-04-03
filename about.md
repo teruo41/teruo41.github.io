@@ -15,7 +15,7 @@ title: About me
 + Received B.E. and M.S. from The University of Tokyo in 2010 and 2012, respectively
 
 ### Classes
-+ Introduction to Cybersecurity (in Japanese)
++ [Introduction to Cybersecurity](http://www.cs.kyushu-u.ac.jp/lectures/csp/2018/) (in Japanese)
 + Introduction to Information Processing (in Japanese)
 
 ### Community activities
