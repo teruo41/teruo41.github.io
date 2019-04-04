@@ -19,8 +19,8 @@ title: About me
 + Introduction to Information Processing (in Japanese)
 
 ### Community activities
-+ Apr. 2019 - Mar. 2021, Committee member, IPSJ (Information Processing Society of Japan) SIGARCH.
-+ Program committee member, xSIG 2019 (domestic conference).
++ Apr. 2019 - Mar. 2021, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/).
++ Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference).
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese.)
 
 ### Research Grants
