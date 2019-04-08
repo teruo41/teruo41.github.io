@@ -6,7 +6,8 @@ title: About me
 ## About me
 
 ### Short biography
-+ Oct. 2018 to present, Currently with [Cybersecurity Center](https://cs.kyushu-u.ac.jp/en/), Kyushu University, Japan
++ Apr. 2019 to present, Concurrently with [Faculty of Engineering](https://www.eng.kyushu-u.ac.jp/e/), Kyushu University, Japan
++ Oct. 2018 to present, Concurrently with [Cybersecurity Center](https://cs.kyushu-u.ac.jp/en/), Kyushu University, Japan
 + Apr. 2018 to present, Assistant Professor at [Research Institute for Information Technology](http://ri2t.kyushu-u.ac.jp/en/index-e.html), Kyushu University, Japan
 + Received Ph.D. from Kyushu University in Mar. 2018
 + Apr. 2015 to Mar. 2018, Ph.D. course at [Cyber Physical Computing Laboratory](http://www.cpc.ait.kyushu-u.ac.jp/), Kyushu University, Japan
@@ -25,8 +26,5 @@ title: About me
 
 ### Research Grants
 + PI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Early-Career Scientist.
++ CI, Apr. 2019 to TBA, JSPS Grant-in-Aid for Scientific Research.
 + PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen).
-
-<!--
-+ CI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Scientific Research (A).
--->
