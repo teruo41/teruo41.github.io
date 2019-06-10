@@ -18,6 +18,9 @@ title: 情報処理概論 (2019)
 
 ## 講義資料
 
+- Moodle で資料を見ることができます
+- Moodle の調子が良くない場合にはこのページからダウンロードしてください
+
 ||講義資料１|講義資料２|
 |:-:|:-:|:-:|
 |第１回（６／１２）|[本講義について]({{ site.url }}/contents/ipintro2019/fort1-teruo-2019-v01.pdf)|[プログラムの翻訳と実行]({{ site.url }}/contents/ipintro2019/fort2-teruo-2019-v01.pdf)|
