@@ -80,6 +80,8 @@ title: Publications
 
 ### Awards
 
+0. 2019 Computer Science and Informatics Research Contribution Award, July 2019.
+
 0. [Quick Report on Doctoral Theses Recommended by IPSJ SIGs (2017)](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html), May 2018. (The site is in Japanese.)
 
 0. [IPSJ Computer Science Research Award for Young Scientists (2017)](http://www.ipsj.or.jp/award/cs-award-2017.html), Nov. 2017. (The site is in Japanese.)
