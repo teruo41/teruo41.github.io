@@ -20,9 +20,11 @@ title: About me
 + Introduction to Information Processing (in Japanese)
 
 ### Community activities
-+ Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese).
++ Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese) Dec. 2019.
++ Organizing committee member, [APSCIT 2019](http://www.apscit.org/apscit2019-annual-meeting-overview) July, 2019.
++ Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference) May 2019.
+
 + Apr. 2019 - Mar. 2021, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/).
-+ Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference).
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese.)
 
 ### Research Grants
