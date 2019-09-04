@@ -67,6 +67,10 @@ title: Publications
 
 ### Posters
 
+0. Ghadeer Almusaddar, __Teruo Tanimoto__, Takatsugu Ono, Smruti Sarangi, Koji Inoue,  
+   ***Whitelisting Approach Using Hardware Performance Counters in IoT Microprocessors,***  
+   4th Career Workshop for Women and Minorities in Computer Architecture, Oct. 2018.
+
 0. __Teruo Tanimoto,__ Takatsugu Ono, Kohta Nakashima, and Takashi Miyoshi,  
    ***Hardware-assisted Scalable Flow Control of Shared Receive Queue,***  
    In Proceedings of the 28th ACM International Conference on Supercomputing (ICS '14), p.175, Jun. 2014.  
