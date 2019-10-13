@@ -84,7 +84,7 @@ title: Publications
 
 ### Awards
 
-0. 2019 Computer Science and Informatics Research Contribution Award, July 2019.
+0. APSCIT Computer Science and Informatics Research Contribution Award (2019), July 2019.
 
 0. [Quick Report on Doctoral Theses Recommended by IPSJ SIGs (2017)](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html), May 2018. (The site is in Japanese.)
 
