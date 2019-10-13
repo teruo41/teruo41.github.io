@@ -17,8 +17,8 @@ title: About me
 
 ### Classes
 + [Introduction to Cybersecurity]({{ site.baseurl }}lectures/csp2019) (in Japanese)
-+ Introduction to Information Processing (in Japanese)
-+ enPiT-Pro Security (Microarchitectural attacks)
++ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese)
++ [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese)
 
 ### Community activities
 + Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese) Dec. 2019.
