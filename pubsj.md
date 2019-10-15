@@ -18,7 +18,8 @@ title: Publications in Japanese
 0. 松尾脩平, __谷本輝夫__, 川上哲志, 田渕豊, 廣川真男, 井上弘士,  
   ***NISQにおけるfidelityが処理時間へ与える影響の解析  
   ～古典-量子ハイブリッドアーキテクチャの実現に向けて～ ,***  
-  情報処理学会研究報告, Vol.2019-ARC-236 No.13, pp.1-10, 2019年6月.
+  情報処理学会研究報告, Vol.2019-ARC-236 No.13, pp.1-10, 2019年6月.  
+  （[情報処理学会コンピュータ・システム研究会若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)）  
 
 0. 松尾脩平, __谷本輝夫__, 川上哲志, 田渕豊, 廣川真男, 井上弘士,  
   ***量子ビットの初期化及び観測エラーを考慮した性能評価環境の構築,***  
@@ -79,4 +80,9 @@ title: Publications in Japanese
 0. [電子情報通信学会 コンピュータシステム研究専門委員会(CPSY) 2016年度研究会優秀若手講演賞](http://www.ieice.org/~cpsy/award.shtml.ja)，2017年7月．
 
 0. [情報処理学会 コンピュータ・システム研究会(SIGARC) 2016年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)，2016年10月．
+
+### 指導学生の受賞
+
+0. 松尾脩平, [情報処理学会 コンピュータ・システム研究会(SIGARC) 2019年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html), 2019年7月.
+
 
