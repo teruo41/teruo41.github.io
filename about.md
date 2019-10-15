@@ -16,19 +16,20 @@ title: About me
 + Received B.E. and M.S. from The University of Tokyo in 2010 and 2012, respectively
 
 ### Classes
-+ [Introduction to Cybersecurity]({{ site.baseurl }}lectures/csp2019) (in Japanese)
-+ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese)
-+ [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese)
++ [Introduction to Cybersecurity]({{ site.baseurl }}lectures/csp2019) (in Japanese), 2019
++ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019
++ [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese), 2019
 
 ### Community activities
-+ Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese) Dec. 2019.
-+ Organizing committee member, [APSCIT 2019](http://www.apscit.org/apscit2019-annual-meeting-overview) July, 2019.
-+ Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference) May 2019.
++ Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese), Dec. 2019
++ Organizing committee member, [APSCIT 2019](http://www.apscit.org/apscit2019-annual-meeting-overview), July, 2019
++ Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference), May 2019.
 
-+ Apr. 2019 - Mar. 2021, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/).
-+ Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese.)
+
++ Apr. 2019 - Mar. 2021, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese)
 
 ### Research Grants
-+ PI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Early-Career Scientist (3,200 thousand yen).
-+ CI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Scientific Research (A).
-+ PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen).
++ PI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Early-Career Scientist (3,200 thousand yen)
++ CI, Apr. 2019 to Mar. 2021, JSPS Grant-in-Aid for Scientific Research (A)
++ PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,000 thousand yen)

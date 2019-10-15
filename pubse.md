@@ -98,4 +98,4 @@ title: Publications
 
 ### Awards for my students
 
-0. Shuhei Matsuo, [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), July 2019. (The site is in Japanese.)
+0. Shuhei Matsuo, [IPSJ SIGARC Young Researcher Award (2019)](https://www.ipsj.or.jp/award/arc-award1.html), July 2019. (The site is in Japanese.)
