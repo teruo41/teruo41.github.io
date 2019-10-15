@@ -7,6 +7,10 @@ title: Publications
 
 ### Conference Papers
 
+0. Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
+   ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
+   HPC Asia 2020, Jan. 2020 [to appear].
+
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***CPCI Stack: Metric for Accurate Bottleneck Analysis on OoO Microprocessors,***  
    In Proceedings of the Fifth International Symposium on Computing and Networking (CANDAR '17), pp.166-172, Nov. 2017.  
