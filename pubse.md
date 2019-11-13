@@ -82,6 +82,11 @@ title: Publications
 
 ### Invited Talks
 
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
+   ***How can we exploit noisy intermediate-scale quantum computers? ~A computer architecture perspective~,***  
+   The first workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC 2019), Nov. 2019.
+
+
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Graph-based performance analysis on Out-of-Order processors,***  
    The seventh Asian Workshop on Smart Sensor Systems, Mar. 2019.
