@@ -10,7 +10,7 @@ I am an Assistant Professor at Research Institute for Information Technology, Ky
 ### Recent publications
   - Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
     ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
-    HPC Asia 2020 [to appear].
+    In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), pp.22-31, Jan. 2020.
   - __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
     ***Critical Path based Microarchitectural Bottleneck Analysis for Out-of-Order Execution,***  
     IEICE Transactions.
