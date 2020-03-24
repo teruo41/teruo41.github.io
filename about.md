@@ -16,17 +16,19 @@ title: About me
 + Received B.E. and M.S. from The University of Tokyo in 2010 and 2012, respectively
 
 ### Classes
-+ [Introduction to Cybersecurity]({{ site.baseurl }}lectures/csp2019) (in Japanese), 2019
-+ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019
++ [Introduction to Cybersecurity]({{ site.baseurl }}lectures/csp2020) (in Japanese), 2020
++ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2020) (in Japanese), 2020
 + [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese), 2019
 
 ### Community activities
++ Programm committee member, [CF 2020](http://www.computingfrontiers.org/2020/), May. 2020
 + Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese), Dec. 2019
 + Organizing committee member, [APSCIT 2019](http://www.apscit.org/apscit2019-annual-meeting-overview), July, 2019
 + Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference), May 2019.
 
-
-+ Apr. 2019 - Mar. 2021, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Apr. 2020 - Mar. 2022, Secretary, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Apr. 2020 - Mar. 2022, Committee member, [IPSJ (Information Processing Society of Japan) SIGHPC](http://sighpc.hpcc.jp/)
++ Apr. 2019 - Mar. 2020, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese)
 
 ### Research Grants
