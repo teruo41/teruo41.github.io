@@ -7,7 +7,7 @@ title: Publications
 
 ### Conference Papers
 
-0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, Teruo Tanimoto, Akira Fujimaki, and Koji Inoue  
+0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
    In VLSI 2020 (to appear).
 
