@@ -7,6 +7,12 @@ title: Publications
 
 ### Conference Papers
 
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue  
+   ***How many trials do we need for reliable NISQ computing?,***  
+   In The First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjuction with the ISVLSI 2020 (to appear).
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue  
+   ***Practical error modeling toward realistic NISQ simulation,***  
+   In The First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjuction with the ISVLSI 2020 (to appear).
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
    In VLSI 2020 (to appear).
