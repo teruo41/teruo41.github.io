@@ -8,15 +8,16 @@ title: Home
 I am an Assistant Professor at Research Institute for Information Technology, Kyushu Unversity.
 
 ### Recent publications
-  - Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
-    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
+  - Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue,
+    ***"32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,"***
     In VLSI 2020 (to appear).
-  - Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
-    ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
+  - Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,
+    ***"Enhancing a manycore-oriented compressed cache for GPGPU,"***
     In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), pp.22-31, Jan. 2020.
 
 ### Research interests
   - Computer architecture
+  - Quantum computer system architecture
   - Hardware/software co-design
   - Parallel processing
   - Interconnects
