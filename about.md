@@ -32,6 +32,10 @@ title: About me
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese)
 
 ### Research Grants
+#### In progress
++ CI, Apr. 2020 to Mar. 2021, JST SICOPE (US) (8,250 thousand JPY)
 + PI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Early-Career Scientist (4,160 thousand JPY)
 + CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY)
+
+#### Completed
 + PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,900 thousand JPY)
