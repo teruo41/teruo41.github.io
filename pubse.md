@@ -15,8 +15,7 @@ title: Publications
    In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 291-293, July 2020.
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
-   In VLSI 2020 (to appear).
-
+   In Proceedings of the 2020 Symposia on VLSI Technology and Circuits, June 2020.
 0. Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
    ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
    In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), pp.22-31, Jan. 2020.  
