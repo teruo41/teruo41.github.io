@@ -7,7 +7,10 @@ title: Publications
 
 ### Conference Papers
 
-0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue  
+0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
+   ***Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
+   In MICRO-53 (to apper).
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***How many trials do we need for reliable NISQ computing?,***  
    In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 288-290, July 2020.
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
