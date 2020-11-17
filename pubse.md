@@ -8,17 +8,21 @@ title: Publications
 ### Conference Papers
 
 0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
-   ***Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
+   ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
    In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53) (to apper).
+
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***How many trials do we need for reliable NISQ computing?,***  
    In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 288-290, July 2020.
+
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***Practical error modeling toward realistic NISQ simulation,***  
    In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 291-293, July 2020.
+
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
    In Proceedings of the 2020 Symposia on VLSI Technology and Circuits, pp.1-2, June 2020.
+
 0. Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
    ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
    In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), pp.22-31, Jan. 2020.  
