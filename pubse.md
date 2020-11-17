@@ -21,7 +21,8 @@ title: Publications
 
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
-   In Proceedings of the 2020 Symposia on VLSI Technology and Circuits, pp.1-2, June 2020.
+   In Proceedings of the 2020 Symposia on VLSI Technology and Circuits, pp.1-2, June 2020.  
+   ([IEEEXplore](https://ieeexplore.ieee.org/document/9162826))
 
 0. Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,  
    ***Enhancing a manycore-oriented compressed cache for GPGPU,***  
