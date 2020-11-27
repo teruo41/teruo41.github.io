@@ -9,7 +9,7 @@ I am an Assistant Professor at Research Institute for Information Technology, Ky
 
 ### Recent publications
   - Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,
-   ***Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***
+   ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***
    In MICRO-53 (to apper).
   - Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue,
     ***"32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,"***
