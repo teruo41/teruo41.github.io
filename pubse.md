@@ -9,7 +9,7 @@ title: Publications
 
 0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
-   In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53) (to apper).
+   In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53), pp. 58-72, Oct. 2020.
 
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***How many trials do we need for reliable NISQ computing?,***  
