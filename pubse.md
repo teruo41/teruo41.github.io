@@ -60,7 +60,7 @@ title: Publications
 
 ### Journal Papers
 
-0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, Teruo Tanimoto, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
+0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
    IEEE Micro, vol.XX, no.X, pp.XX–XX, 2021 (Accepted).
 
