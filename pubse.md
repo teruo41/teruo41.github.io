@@ -62,7 +62,7 @@ title: Publications
 
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
-   IEEE Micro, vol.XX, no.X, pp.XX–XX, 2021 (Accepted).
+   IEEE Micro, vol.41, no.3, pp.19–26, May-June 2021.
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Critical Path based Microarchitectural Bottleneck Analysis for Out-of-Order Execution,***  
