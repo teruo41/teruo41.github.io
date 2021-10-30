@@ -10,10 +10,10 @@ I am an Assistant Professor at Research Institute for Information Technology, Ky
 ### Recent publications
   - Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,
    ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***
-   In MICRO-53 (to apper).
+   In MICRO-53, Oct. 2020.
   - Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue,
     ***"32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,"***
-    In VLSI 2020, June 2020 .
+    In VLSI 2020, June 2020.
   - Keitaro Oka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Koi Inoue,
     ***"Enhancing a manycore-oriented compressed cache for GPGPU,"***
     In Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region (HPCAsia2020), pp.22-31, Jan. 2020.
