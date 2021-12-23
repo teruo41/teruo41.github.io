@@ -1,4 +1,4 @@
-auto: true
-server: true
+#auto: true
+#server: true
 markdown: kramdown
 exclude: ["vendor", "Gemfile", "Gemfile.lock"]
