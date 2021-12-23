@@ -5,12 +5,12 @@ Y=$(date "+%Y")
 TMPFILE=$(mktemp)
 
 S1="  Last update: "
-S2="  &copy; 2015-"
+S2="copy; 2015-"
 S3=" Teruo Tanimoto"
 
 echo "Updating last modified date to ${D} ..."
 cat _includes/footer.html | \
 sed -e "s/^${S1}.*<br>$/${S1}${D}<br>/" | \
-sed -e "s/^${S2}.*${S3}$/${S2}${Y}${S3}/" > ${TMPFILE}
+sed -e "s/^  &${S2}.*${S3}$/  \&${S2}${Y}${S3}/" > ${TMPFILE}
 mv ${TMPFILE} _includes/footer.html
 git add _includes/footer.html
