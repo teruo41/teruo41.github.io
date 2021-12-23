@@ -1,0 +1,7 @@
+#!/bin/bash
+
+DATE=$(date "+%e %b %Y")
+
+echo "Updating last modified date to ${DATE} ..."
+sed -i -e "s/^  Last Update: .*<br>$/  Last Update: ${DATE}<br>/" _includes/footer.html
+git add _includes/footer.html
