@@ -1,7 +1,9 @@
 #!/bin/bash
 
 DATE=$(date "+%e %b %Y")
+TMPFILE=$(mktemp)
 
 echo "Updating last modified date to ${DATE} ..."
-sed -i -e "s/^  Last Update: .*<br>$/  Last Update: ${DATE}<br>/" _includes/footer.html
+sed -e "s/^  Last update: .*<br>$/  Last update: ${DATE}<br>/" _includes/footer.html > ${TMPFILE}
+mv ${TMPFILE} _includes/footer.html
 git add _includes/footer.html
