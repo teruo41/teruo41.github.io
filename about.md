@@ -43,9 +43,12 @@ title: About me
 
 ### Research Grants
 #### In progress
++ CI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Scientific Research (A) (granted)
++ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (4,680 thousand JPY, granted)
++ CI, Mar. 2022 to Mar. 2027, [Moonshot program #6: realize a fault-tolerant universal quantum computer by 2050 that can solve problems which conventional computers cannot solve on a realistic timescale](https://ms-iscqc.jp/en/) (10,400 thousand JPY in total)
 + PI, Nov. 2020 to Mar. 2024, JST PRESTO (39,000 thousand JPY)
 + PI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Early-Career Scientist (4,160 thousand JPY)
-+ CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY)
++ CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY in total)
 
 #### Completed
 + CI, Apr. 2020 to Mar. 2021, JST SICORP (US) (8,250 thousand JPY)
