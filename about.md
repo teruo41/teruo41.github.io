@@ -6,10 +6,12 @@ title: About me
 ## About me
 
 ### Short biography
++ Mar. 2022 to present, Concurrently with [Quantum Computing System Center](https://qcsc.kyusuh-u.ac.jp/), Kyushu University, Japan
 + July 2021 to present, Concurrently visiting researcher at [RIKEN RQC](https://www.riken.jp/en/research/labs/rqc/index.html), Japan 
 + Apr. 2021 to present, Concurrently with [School of Science](https://www.sci.kyushu-u.ac.jp/e/), Kyushu University, Japan
++ Apr. 2021 to present, Concurrently with [System LSI Research Center](https://slrc.kyushu-u.ac.jp/en/), Kyushu University, Japan
 + Apr. 2021 to present, Assistant Professor at [Faculty of Information Science and Electrical Engineering](https://www.isee.kyushu-u.ac.jp/e/), Kyushu University, Japan
-+ Apr. 2019 to Mar. 2021, Concurrently with [School of Engineering](https://www.eng.kyushu-u.ac.jp/e/), Kyushu University, Japan
+<!-- + Apr. 2019 to Mar. 2021, Concurrently with [School of Engineering](https://www.eng.kyushu-u.ac.jp/e/), Kyushu University, Japan -->
 + Oct. 2018 to Mar. 2021, Concurrently with [Cybersecurity Center](https://cs.kyushu-u.ac.jp/en/), Kyushu University, Japan
 + Apr. 2018 to Mar. 2021, Assistant Professor at [Research Institute for Information Technology](http://ri2t.kyushu-u.ac.jp/en/index-e.html), Kyushu University, Japan
 + Received Ph.D. from Kyushu University in Mar. 2018
