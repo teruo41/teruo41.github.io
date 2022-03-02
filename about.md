@@ -6,7 +6,7 @@ title: About me
 ## About me
 
 ### Short biography
-+ Mar. 2022 to present, Concurrently with [Quantum Computing System Center](https://qcsc.kyusuh-u.ac.jp/), Kyushu University, Japan
++ Mar. 2022 to present, Concurrently with [Quantum Computing System Center](https://qcsc.kyusuh-u.ac.jp/en/), Kyushu University, Japan
 + July 2021 to present, Concurrently visiting researcher at [RIKEN RQC](https://www.riken.jp/en/research/labs/rqc/index.html), Japan 
 + Apr. 2021 to present, Concurrently with [School of Science](https://www.sci.kyushu-u.ac.jp/e/), Kyushu University, Japan
 + Apr. 2021 to present, Concurrently with [System LSI Research Center](https://slrc.kyushu-u.ac.jp/en/), Kyushu University, Japan
