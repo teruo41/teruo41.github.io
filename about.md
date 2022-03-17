@@ -31,8 +31,8 @@ title: About me
 ### Community activities
 #### In progress
 + Apr. 2021 - Mar. 2023, Editorial committee member, [IPSJ Transactions on Advanced Computing Systems](https://acs.hpcc.jp/)
-+ Apr. 2020 - Mar. 2022, Secretary, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
-+ Apr. 2020 - Mar. 2022, Committee member, [IPSJ (Information Processing Society of Japan) SIGHPC](http://sighpc.hpcc.jp/)
++ Apr. 2020 - Mar. 2024, Secretary, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Apr. 2020 - Mar. 2024, Committee member, [IPSJ (Information Processing Society of Japan) SIGHPC](http://sighpc.hpcc.jp/)
 
 #### Completed
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese)
