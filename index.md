@@ -5,7 +5,7 @@ title: Home
 
 ## Home
 
-I am an Assistant Professor at Research Institute for Information Technology, Kyushu Unversity.
+I am an Associate Professor at Faculty of Information Science and Electrical Engineering, Kyushu Unversity.
 
 ### Recent publications
   - Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,
