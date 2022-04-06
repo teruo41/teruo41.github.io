@@ -7,6 +7,14 @@ title: Publications
 
 ### Conference Papers
 
+0. Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,  
+   ***Modeling Cross-Technology Control Processors to Realize 10+K Qubit Quantum Computers,***  
+   In Proceedings of ACM/IEEE International Symposium on Computer Architecture (ISCA '22), Jun 2022 (to appear).
+
+0. Iori Ishikawa, Ikki Nagaoka, Ryota Kashima, Koki Ishida, Kosuke Fukumitsu, Keitaro Oka, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Akira Fujimaki, and Koji Inoue,  
+   ***Design of Variable Bit-Width Arithmetic Unit Using Single Flux Quantum Device,***  
+   In Proceedings of International Symposium on Circuits & Systems 2022 (ISCAS '22), May 2022 (to appear).
+   
 0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
    In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53), pp. 58-72, Oct. 2020.
