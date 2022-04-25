@@ -8,7 +8,7 @@ title: Publications
 ### Conference Papers
 
 0. Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,  
-   ***Modeling Cross-Technology Control Processors to Realize 10+K Qubit Quantum Computers,***  
+   ***XQsim: Modeling Cross-Technology Control Processors for 10+K Qubit Quantum Computers,***  
    In Proceedings of ACM/IEEE International Symposium on Computer Architecture (ISCA '22), Jun 2022 (to appear).
 
 0. Iori Ishikawa, Ikki Nagaoka, Ryota Kashima, Koki Ishida, Kosuke Fukumitsu, Keitaro Oka, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Akira Fujimaki, and Koji Inoue,  
