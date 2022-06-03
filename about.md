@@ -25,8 +25,10 @@ title: About me
 + Received B.E. and M.S. from The University of Tokyo in 2010 and 2012, respectively
 
 ### Classes
++ Embedded system seminar, 2022
++ Logic circuit, 2022
 + Programming technique seminar, 2021
-+ Introduction to Cybersecurity (in Japanese), [2019]({{ site.baseurl }}lectures/csp2019), [2020]({{ site.baseurl }}lectures/csp2020)
++ Introduction to Cybersecurity (in Japanese), [2019]({{ site.baseurl }}lectures/csp2019), [2020]({{ site.baseurl }}lectures/csp2020), 2022
 + [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019, 2020
 + [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese), 2019-21
 
@@ -47,13 +49,14 @@ title: About me
 
 ### Research Grants
 #### In progress
-+ CI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Scientific Research (A) (granted)
-+ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (4,680 thousand JPY, granted)
-+ CI, Feb. 2022 to Mar. 2027, [Moonshot program #6: realize a fault-tolerant universal quantum computer by 2050 that can solve problems which conventional computers cannot solve on a realistic timescale](https://ms-iscqc.jp/en/) (10,400 thousand JPY in total)
++ CI, Apr. 2022 to Mar. 2026, JSPS Grant-in-Aid for Scientific Research (S) (162,270 thousand JPY in total)
++ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (4,680 thousand JPY)
++ CI, Feb. 2022 to Nov. 2025, [Moonshot program #6: realize a fault-tolerant universal quantum computer by 2050 that can solve problems which conventional computers cannot solve on a realistic timescale](https://ms-iscqc.jp/en/) (10,400 thousand JPY in total)
 + PI, Nov. 2020 to Mar. 2024, JST PRESTO (39,000 thousand JPY)
-+ PI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Early-Career Scientist (4,160 thousand JPY)
-+ CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY in total)
 
 #### Completed
++ CI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Scientific Research (A) (granted but declined due to conflict)
++ PI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Early-Career Scientist (4,160 thousand JPY)
++ CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY in total)
 + CI, Apr. 2020 to Mar. 2021, JST SICORP (US) (8,250 thousand JPY)
 + PI, Oct. 2018 to Mar. 2020, [JST ACT-I "New Design Method for flexible and power-efficient application specific processors"](https://www.jst.go.jp/kisoken/act-i/en/project/111C001/111C001_2018.html#639d77837596eb59609715adc941828a) (3,900 thousand JPY)
