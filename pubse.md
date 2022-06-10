@@ -9,7 +9,7 @@ title: Publications
 
 0. Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,  
    ***XQsim: Modeling Cross-Technology Control Processors for 10+K Qubit Quantum Computers,***  
-   In Proceedings of ACM/IEEE International Symposium on Computer Architecture (ISCA '22), Jun 2022 (to appear).
+   In Proceedings of ACM/IEEE International Symposium on Computer Architecture (ISCA '22), pp. 366-382, June 2022 (to appear).
 
 0. Iori Ishikawa, Ikki Nagaoka, Ryota Kashima, Koki Ishida, Kosuke Fukumitsu, Keitaro Oka, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Akira Fujimaki, and Koji Inoue,  
    ***Design of Variable Bit-Width Arithmetic Unit Using Single Flux Quantum Device,***  
