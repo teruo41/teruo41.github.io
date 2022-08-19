@@ -143,4 +143,9 @@ title: Publications
 
 0. Kuan Yi Ng, Aalaa M.A. Babai, Satoshi Kawakami, __Teruo Tanimoto__, and Koji Inoue,  
    ***Layer-wise power/performance analysis for single-board CNN inference***,  
-   cross-disciplinary workshop on computing Systems, Infrastructures, and programminG (xSIG), July 2022.
+   cross-disciplinary workshop on computing Systems, Infrastructures, and programminG (xSIG), July 2022.  
+   (Refereed but presented in a closed conference)
+
+0. Kuan Yi Ng, Aalaa M.A. Babai, Satoshi Kawakami, __Teruo Tanimoto__, and Koji Inoue,  
+   ***Layer-wise power/performance modelling for single-board CNN inference***,
+   SIG Technical Reports, Vol.2022-ARC-248 No.13, pp.1-11, Mar. 2022.
