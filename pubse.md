@@ -14,7 +14,7 @@ title: Publications
 0. Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,  
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,  
    In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), Oct. 2022 (to appear).  
-   (acceptance rate: 83/366=22%)  
+   (acceptance rate: 83/366=22%)
 
 0. Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,  
    ***XQsim: Modeling Cross-Technology Control Processors for 10+K Qubit Quantum Computers,***  
