@@ -146,6 +146,10 @@ title: Publications
 
 ### Unpublished presentations
 
+0. M.A. Babai Aalaa, Ng Kuan Yi, __Tanimoto Teruo__, Kawakami Satoshi, Inoue Koji,  
+   ***Non-Volatile FPGA-based Intermittent Computing and Its Performance Analysis***,  
+   SIG Technical Reports, Vol.2022-ARC-250 No.14, pp.1-7, Oct. 2022.
+
 0. Kuan Yi Ng, Aalaa M.A. Babai, Satoshi Kawakami, __Teruo Tanimoto__, and Koji Inoue,  
    ***Layer-wise power/performance analysis for single-board CNN inference***,  
    cross-disciplinary workshop on computing Systems, Infrastructures, and programminG (xSIG), July 2022.  
