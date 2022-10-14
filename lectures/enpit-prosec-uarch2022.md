@@ -10,7 +10,7 @@ table, th, td {
 }
 </style>
 
-# {% title %} enPiT-Pro Security マイクロアーキテクチャ攻撃
+# {% page.title %} enPiT-Pro Security マイクロアーキテクチャ攻撃
 
 ## 概要
 
