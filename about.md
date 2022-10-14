@@ -30,7 +30,7 @@ title: About me
 + Programming technique seminar, 2021
 + Introduction to Cybersecurity (in Japanese), [2019]({{ site.baseurl }}lectures/csp2019), [2020]({{ site.baseurl }}lectures/csp2020), 2022
 + [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019, 2020
-+ [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2019) (in Japanese), 2019-21
++ [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2022) (in Japanese), 2019-22
 
 ### Community activities
 #### In progress
