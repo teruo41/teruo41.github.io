@@ -45,26 +45,28 @@ table, th, td {
 資料の文字列をコピー＆ペーストするとうまくいかない場合があります。  
 過去に AWS の T2 インスタンスで演習に挑戦した方で計算が終わらなかったケースがありました。
 
+### Docker をインストールできない場合
+
 仮想環境として VirtualBox を利用している方向けに Docker コンテナを実行可能なイメージを配布します。  
 VirtualBox を使わなくても手元で Docker を実行できる場合は、この環境を使わなくても構いません。  
 （Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。）
 
-### イメージ配布 URL
+#### イメージ配布 URL
 - [http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip](http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip)
 - 九大のOffice365にログイン可能な方は[以下](https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N)からも同じファイルをダウンロードできます。  
   https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N
 
-### zip ファイルの md5sum
+#### zip ファイルの md5sum
 ``` 
 1312c3b3ebfca24f38acb69fefc510cd
 ```
 
-### 仮想マシンのユーザ情報
+#### 仮想マシンのユーザ情報
 - ユーザ名： `uauser`
 - パスワード： `prosec-ua`  
   （rootパスワード： `enpit-prosec-ua`）
 
-### Docker コンテナ実行可否の確認方法
+#### Docker コンテナ実行可否の確認方法
 zip ファイルを解凍し、中の `input-prosec-ua.vbox` を開いてください。
 
 仮想マシンが起動したら、 `uauser` でログインし、以下のコマンドを実行してください。
@@ -77,7 +79,7 @@ sudo docker run hello-world
 This message shows that your installation appears to be working correctly
 ```
 
-### VirtualBox 使用時の注意点
+#### VirtualBox 使用時の注意点
 当日の演習では、VirtualBox の画面よりも大きなターミナルが必要になると思いますので、SSH などを使ってこの仮想マシンに端末エミュレータから接続できるようにしておくのをおすすめします。
 
 ## レポートに関して
