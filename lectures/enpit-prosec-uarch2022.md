@@ -38,7 +38,8 @@ table, th, td {
 お手元の環境で Docker コンテナを実行してください。  
 [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 
-可能な方は、講義までに演習１（準備編）まで実施を済ませておいてください。  
+可能な方は、講義までに[演習１（準備編）]({{ site.url }}/contents/enpit-prosec-uarch2022/MA-ex-1-v01.pdf)まで実施を済ませておいてください。  
+Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。  
 2 GB 程度のファイルをダウンロードする必要があります。  
 うまくいかない場合や、不明な点がある場合は、Slack の [#20221015-tanimoto](https://prosec-itseckun2022.slack.com/archives/C046440GJRY) で連絡してください。
 
@@ -49,7 +50,6 @@ table, th, td {
 
 仮想環境として VirtualBox を利用している方向けに Docker コンテナを実行可能なイメージを配布します。  
 VirtualBox を使わなくても手元で Docker を実行できる場合は、この環境を使わなくても構いません。  
-（Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。）
 
 #### イメージ配布 URL
 - [http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip](http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip)
