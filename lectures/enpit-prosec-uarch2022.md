@@ -3,6 +3,13 @@ layout: normal
 title: enPiT-Pro Security マイクロアーキテクチャ攻撃 (2022)
 ---
 
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+
 # enPiT-Pro Security マイクロアーキテクチャ攻撃
 
 ## 概要
@@ -17,7 +24,6 @@ title: enPiT-Pro Security マイクロアーキテクチャ攻撃 (2022)
 |:--:|:---|
 | 9:00 - 12:00|導入、CPUを対象としたマイクロアーキテクチャ攻撃に関する講義、演習（準備編）|
 |13:00 - 16:00|メモリを対象とした攻撃に関する講義、演習（再現編）|
-{: style="border: 1px solid black;"}
 
 ## 講義資料
 
@@ -40,17 +46,17 @@ VirtualBox を使わなくても手元で Docker を実行できる場合は、�
 （Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。）
 
 ### イメージ配布 URL
-http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip
-九大のOffice365にログイン可能な方は以下からも同じファイルをダウンロードできます。
-https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N
+- http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip
+- 九大のOffice365にログイン可能な方は以下からも同じファイルをダウンロードできます。  
+  https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N
 
 ### zip ファイルの md5sum
 1312c3b3ebfca24f38acb69fefc510cd
 
 ### 仮想マシンのユーザ情報
-ユーザ名： uauser
-パスワード： prosec-ua
-（rootパスワード： enpit-prosec-ua）
+- ユーザ名： uauser
+- パスワード： prosec-ua  
+  （rootパスワード： enpit-prosec-ua）
 
 ### Docker コンテナ実行可否の確認方法
 zip ファイルを解凍し、中の input-prosec-ua.vbox を開いてください。
