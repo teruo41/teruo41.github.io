@@ -11,6 +11,10 @@ title: Publications
    ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code***,  
    In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), Jan 2023 (to appear).
 
+0. Satoshi Matsushita, __Teruo Tanimoto__, Satoshi Kawakami, Takatsugu Ono, and Koji Inoue,  
+   ***An Edge Autonomous Lamp Control with Camera Feedback***,
+   In Proceedings of the IEEE 8th World Forum on Internet of Things (WF-IoT '22), Oct.-Nov. 2022 (to appear).
+
 0. Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,  
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,  
    In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), Oct. 2022 (to appear).  
