@@ -81,6 +81,10 @@ title: Publications
 
 ### Journal Papers
 
+<!--
+Kuan's ACS
+-->
+
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
    IEEE Micro, vol.41, no.3, pp.19–26, May-June 2021.
