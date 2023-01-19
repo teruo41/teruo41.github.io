@@ -7,7 +7,7 @@ title: Publications
 
 ### Conference Papers
 
-0. Wang LIAO, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno, Yuuki Tokunaga,  
+0. Wang LIAO, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno, and Yuuki Tokunaga,  
    ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code***,  
    In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), Jan 2023 (to appear).
 
@@ -17,7 +17,7 @@ title: Publications
 
 0. Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,  
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,  
-   In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), Oct. 2022 (to appear).  
+   In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), pp. 1110-1125, Oct. 2022.  
    (acceptance rate: 83/366=22%)
 
 0. Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,  
@@ -31,14 +31,6 @@ title: Publications
 0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
    In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53), pp. 58-72, Oct. 2020.
-
-0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
-   ***How many trials do we need for reliable NISQ computing?,***  
-   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 288-290, July 2020.
-
-0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
-   ***Practical error modeling toward realistic NISQ simulation,***  
-   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 291-293, July 2020.
 
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
@@ -74,9 +66,19 @@ title: Publications
    ([IEEEXplore](http://ieeexplore.ieee.org/document/7842923/))
 
 
-<!--
 ### Workshop Papers
--->
+
+0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inou, and Akira Fujimaki,  
+   ***High-Throughput Single-Flux-Quantum Circuits Based on Gate- Level-Pipelining toward Artificial Intelligence Applications***,  
+   The Superconducting SFQ VLSI Workshop, Nov. 2022 (non-refereed).
+
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
+   ***How many trials do we need for reliable NISQ computing?,***  
+   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 288-290, July 2020.
+
+0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
+   ***Practical error modeling toward realistic NISQ simulation,***  
+   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 291-293, July 2020.
 
 
 ### Journal Papers
@@ -129,10 +131,13 @@ Kuan's ACS
 
 ### Invited Talks
 
+0. __Teruo Tanimoto__,  
+   ***Research Activities toward Larger-Scale Cryogenic Quantum Computer Systems***,  
+   Designers' Forum in conjunction with ASP-DAC 2023, Jan. 2023.
+
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***How can we exploit noisy intermediate-scale quantum computers? ~A computer architecture perspective~,***  
    The first workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC 2019), Nov. 2019.
-
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
    ***Graph-based performance analysis on Out-of-Order processors,***  
