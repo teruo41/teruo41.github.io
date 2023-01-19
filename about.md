@@ -27,10 +27,10 @@ title: About me
 ### Classes
 + Embedded system seminar, 2022
 + Logic circuit, 2022
-+ Programming technique seminar, 2021
 + Introduction to Cybersecurity (in Japanese), [2019]({{ site.baseurl }}lectures/csp2019), [2020]({{ site.baseurl }}lectures/csp2020), 2022
-+ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019, 2020
 + [enPiT-Pro Security (Microarchitectural attacks)]({{ site.baseurl }}lectures/enpit-prosec-uarch2022) (in Japanese), 2019-22
++ Programming technique seminar, 2021
++ [Introduction to Information Processing]({{ site.baseurl }}lectures/ipintro2019) (in Japanese), 2019, 2020
 
 ### Community activities
 #### In progress
@@ -49,9 +49,10 @@ title: About me
 
 ### Research Grants
 #### In progress
++ CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (12,000 thousand JPY)
 + CI, Apr. 2022 to Mar. 2026, JSPS Grant-in-Aid for Scientific Research (S) (162,270 thousand JPY in total)
-+ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (4,680 thousand JPY)
-+ CI, Feb. 2022 to Nov. 2025, ["Exploring quantum computer architecture" under Yamamoto PM in Moonshot program #6](https://ms-iscqc.jp/en/) (10,400 thousand JPY in total)
++ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (6,500 thousand JPY)
++ CI, Feb. 2022 to Nov. 2025, ["Exploring quantum computer architecture" under Yamamoto PM in Moonshot program #6](https://ms-iscqc.jp/en/) (104,000 thousand JPY in total)
 + PI, Nov. 2020 to Mar. 2024, JST PRESTO (39,000 thousand JPY)
 + CI, Feb. 2020 to Mar. 2025, Q-LEAP Quantum Academy of Science and Technology
 
