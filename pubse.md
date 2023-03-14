@@ -9,7 +9,7 @@ title: Publications
 
 0. Wang LIAO, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno, and Yuuki Tokunaga,  
    ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code***,  
-   In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), Jan 2023 (to appear).
+   In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), pp. 209-215, Jan. 2023.
 
 0. Satoshi Matsushita, __Teruo Tanimoto__, Satoshi Kawakami, Takatsugu Ono, and Koji Inoue,  
    ***An Edge Autonomous Lamp Control with Camera Feedback***,
@@ -26,7 +26,7 @@ title: Publications
 
 0. Iori Ishikawa, Ikki Nagaoka, Ryota Kashima, Koki Ishida, Kosuke Fukumitsu, Keitaro Oka, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Akira Fujimaki, and Koji Inoue,  
    ***Design of Variable Bit-Width Arithmetic Unit Using Single Flux Quantum Device,***  
-   In Proceedings of International Symposium on Circuits & Systems 2022 (ISCAS '22), May 2022 (to appear).
+   In Proceedings of International Symposium on Circuits & Systems 2022 (ISCAS '22), pp. 3547-3551, May 2022.
    
 0. Koki Ishida, Il-Kwon Byun, Ikki Nagaoka, Kosuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***SuperNPU: Architecting an Extremely Fast Neural Processing Unit Using Superconducting Logic Devices,***  
@@ -83,9 +83,14 @@ title: Publications
 
 ### Journal Papers
 
-<!--
-Kuan's ACS
--->
+0. Ikki Nagaoka, Ryota Kashima, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Taro Yamashita, Koji Inoue, and Akira Fujimaki
+   ***50-GFLOPS Floating-Point Adder and Multiplier Using Gate-Level-Pipelined Single-Flux-Quantum Logic with Frequency-Increased Clock Distribution,***   
+   IEEE Transactions on Applied Superconductivity, 2023. (in press)
+
+0. Kuan Yi Ng, Aalaa M. A. Babai, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
+   ***Empirical Power-Performance Analysis of Layer-wise CNN Inference on Single Board Computers,***  
+   Journal of Information Processing, 2023. (in press)  
+   (also printed in IPSJ Transactions on Advanced Computer Systems)
 
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
@@ -119,6 +124,10 @@ Kuan's ACS
 
 
 ### Posters
+
+0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, Koji Inoue,  
+   ***Prototype Design of 32 GHz Microprocessor based on Superconducting Single-Flux-Quantum Logic,***  
+   The International Conference for High Performance Computing (SC), Nov. 2019.
 
 0. Ghadeer Almusaddar, __Teruo Tanimoto__, Takatsugu Ono, Smruti Sarangi, Koji Inoue,  
    ***Whitelisting Approach Using Hardware Performance Counters in IoT Microprocessors,***  
