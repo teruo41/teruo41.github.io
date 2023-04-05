@@ -49,7 +49,7 @@ title: About me
 
 ### Research Grants
 #### In progress
-+ CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (12,000 thousand JPY)
++ CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (14,330 thousand JPY)
 + CI, Apr. 2022 to Mar. 2026, JSPS Grant-in-Aid for Scientific Research (S) (162,270 thousand JPY in total)
 + PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (6,500 thousand JPY)
 + CI, Feb. 2022 to Nov. 2025, ["Exploring quantum computer architecture" under Yamamoto PM in Moonshot program #6](https://ms-iscqc.jp/en/) (104,000 thousand JPY in total)
