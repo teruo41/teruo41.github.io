@@ -83,7 +83,7 @@ title: Publications
 
 ### Journal Papers
 
-0. Ikki Nagaoka, Ryota Kashima, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Taro Yamashita, Koji Inoue, and Akira Fujimaki
+0. Ikki Nagaoka, Ryota Kashima, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Taro Yamashita, Koji Inoue, and Akira Fujimaki,  
    ***50-GFLOPS Floating-Point Adder and Multiplier Using Gate-Level-Pipelined Single-Flux-Quantum Logic with Frequency-Increased Clock Distribution,***   
    IEEE Transactions on Applied Superconductivity, vol. 33, no. 4, pp. 1-11, June 2023, Art no. 1302711.
 
