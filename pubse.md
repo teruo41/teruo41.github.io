@@ -7,9 +7,14 @@ title: Publications
 
 ### Conference Papers
 
+0. Yasunari Suzuki, Yosuke Ueno, Wang Liao, Masamitsu Tanaka, and __Teruo Tanimoto__,  
+   ***Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing***,  
+   Symposium on VLSI Technology and Circuits. (Invited, to appear), June 2023.
+
 0. Wang LIAO, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno, and Yuuki Tokunaga,  
    ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code***,  
-   In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), pp. 209-215, Jan. 2023.
+   In Proceedings of the 28th Asia and South Pacific Design Automation Conference (ASP-DAC '23), pp. 209-215, Jan. 2023.  
+   (acceptance rate: 102/328=31.1%)
 
 0. Satoshi Matsushita, __Teruo Tanimoto__, Satoshi Kawakami, Takatsugu Ono, and Koji Inoue,  
    ***An Edge Autonomous Lamp Control with Camera Feedback***,
@@ -68,17 +73,19 @@ title: Publications
 
 ### Workshop Papers
 
+
+ 
 0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inou, and Akira Fujimaki,  
    ***High-Throughput Single-Flux-Quantum Circuits Based on Gate- Level-Pipelining toward Artificial Intelligence Applications***,  
    The Superconducting SFQ VLSI Workshop, Nov. 2022 (non-refereed).
 
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***How many trials do we need for reliable NISQ computing?,***  
-   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 288-290, July 2020.
+   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with ISVLSI 2020, pp. 288-290, July 2020.
 
 0. __Teruo Tanimoto__, Shuhei Matsuo, Satoshi Kawakami, Yutaka Tabuchi, Masao Hirokawa, and Koji Inoue,  
    ***Practical error modeling toward realistic NISQ simulation,***  
-   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with the ISVLSI 2020, pp. 291-293, July 2020.
+   In Proceedings of the First International Workshop on Quantum Computing: Circuits Systems Automation and Applications (QC-CSAA) in conjunction with ISVLSI 2020, pp. 291-293, July 2020.
 
 
 ### Journal Papers
@@ -167,6 +174,10 @@ title: Publications
 0. Shuhei Matsuo, [IPSJ SIGARC Young Researcher Award (2019)](https://www.ipsj.or.jp/award/arc-award1.html), July 2019. (The site is in Japanese.)
 
 ### Unpublished presentations
+
+0. Tesshu Nakamura, Makoto Miyamura, Koji Inoue, Satoshi Kawakami, Toshitsugu Sakamoto, Munehiro Tada, and __Teruo Tanimoto__,  
+   ***Dynamically Reconfigurable Decoder Architecture for Adaptive Error Correction Using Cryogenic Non-Volatile FPGAs***,  
+   Workshop and Tutorial: I too can Quantum! (I2Q) in conjunction with ISCA 2023, June 2023.
 
 0. M.A. Babai Aalaa, Ng Kuan Yi, __Tanimoto Teruo__, Kawakami Satoshi, Inoue Koji,  
    ***Non-Volatile FPGA-based Intermittent Computing and Its Performance Analysis***,  
