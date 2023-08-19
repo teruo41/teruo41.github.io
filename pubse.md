@@ -96,7 +96,7 @@ title: Publications
 
 0. Kuan Yi Ng, Aalaa M. A. Babai, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
    ***Empirical Power-Performance Analysis of Layer-wise CNN Inference on Single Board Computers,***  
-   Journal of Information Processing, 2023. (in press)  
+   Journal of Information Processing, Vol.31, pp.478-494, Aug. 2023.
    (also printed in IPSJ Transactions on Advanced Computer Systems)
 
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
