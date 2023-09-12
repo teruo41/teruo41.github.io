@@ -17,7 +17,7 @@ title: Publications
    (acceptance rate: 102/328=31.1%)
 
 0. Satoshi Matsushita, __Teruo Tanimoto__, Satoshi Kawakami, Takatsugu Ono, and Koji Inoue,  
-   ***An Edge Autonomous Lamp Control with Camera Feedback***,
+   ***An Edge Autonomous Lamp Control with Camera Feedback***,  
    In Proceedings of the IEEE 8th World Forum on Internet of Things (WF-IoT '22), pp. 1-7, Oct.-Nov. 2022.
 
 0. Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,  
