@@ -9,7 +9,7 @@ title: Publications
 
 0. Yasunari Suzuki, Yosuke Ueno, Wang Liao, Masamitsu Tanaka, and __Teruo Tanimoto__,  
    ***Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing***,  
-   Symposium on VLSI Technology and Circuits. (Invited, to appear), June 2023.
+   In Proceedings of Symposium on VLSI Technology and Circuits (VLSI '23), pp. 1-2, June 2023 (invited).
 
 0. Wang LIAO, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno, and Yuuki Tokunaga,  
    ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code***,  
@@ -18,7 +18,7 @@ title: Publications
 
 0. Satoshi Matsushita, __Teruo Tanimoto__, Satoshi Kawakami, Takatsugu Ono, and Koji Inoue,  
    ***An Edge Autonomous Lamp Control with Camera Feedback***,
-   In Proceedings of the IEEE 8th World Forum on Internet of Things (WF-IoT '22), Oct.-Nov. 2022 (to appear).
+   In Proceedings of the IEEE 8th World Forum on Internet of Things (WF-IoT '22), pp. 1-7, Oct.-Nov. 2022.
 
 0. Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,  
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,  
