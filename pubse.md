@@ -73,8 +73,6 @@ title: Publications
 
 ### Workshop Papers
 
-
- 
 0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inou, and Akira Fujimaki,  
    ***High-Throughput Single-Flux-Quantum Circuits Based on Gate- Level-Pipelining toward Artificial Intelligence Applications***,  
    The Superconducting SFQ VLSI Workshop, Nov. 2022 (non-refereed).
