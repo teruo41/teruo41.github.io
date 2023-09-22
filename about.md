@@ -49,6 +49,7 @@ title: About me
 
 ### Research Grants
 #### In progress
++ CI, Sep. 2023 to Mar. 2029, JST CREST
 + CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (14,330 thousand JPY)
 + CI, Apr. 2022 to Mar. 2026, JSPS Grant-in-Aid for Scientific Research (S) (162,270 thousand JPY in total)
 + PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (6,500 thousand JPY)
