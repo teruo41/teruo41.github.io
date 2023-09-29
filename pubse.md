@@ -88,14 +88,14 @@ title: Publications
 
 ### Journal Papers
 
-0. Ikki Nagaoka, Ryota Kashima, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Taro Yamashita, Koji Inoue, and Akira Fujimaki,  
-   ***50-GFLOPS Floating-Point Adder and Multiplier Using Gate-Level-Pipelined Single-Flux-Quantum Logic with Frequency-Increased Clock Distribution,***   
-   IEEE Transactions on Applied Superconductivity, vol. 33, no. 4, pp. 1-11, June 2023, Art no. 1302711.
-
 0. Kuan Yi Ng, Aalaa M. A. Babai, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
    ***Empirical Power-Performance Analysis of Layer-wise CNN Inference on Single Board Computers,***  
    Journal of Information Processing, Vol.31, pp.478-494, Aug. 2023.
    (also printed in IPSJ Transactions on Advanced Computer Systems)
+
+0. Ikki Nagaoka, Ryota Kashima, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Taro Yamashita, Koji Inoue, and Akira Fujimaki,  
+   ***50-GFLOPS Floating-Point Adder and Multiplier Using Gate-Level-Pipelined Single-Flux-Quantum Logic with Frequency-Increased Clock Distribution,***   
+   IEEE Transactions on Applied Superconductivity, vol. 33, no. 4, pp. 1-11, June 2023, Art no. 1302711.
 
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
