@@ -8,7 +8,9 @@ As a member of [Cyber-Physical Computing Laboratory](https://cpc.ait.kyushu-u.ac
 
 ## Undergraduate students
 
-I'm looking for motivated bachelor students interested in designing future computer system architecture, including classical computers such as microprocessors, memory subsystems, and IoT systems, and quantum computers such as Noisy Intermediate-Scale Computers (NISQ) and Fault-Tolerant Qnautum Computers (FTQC). My research topics are the best suited for students in CM and CE courses of the Department of Electrical Engineering and Computer Science (EECS). Students in EE course can also choose our research group.
+I'm looking for motivated bachelor students interested in designing future computer system architecture, including classical computers such as microprocessors, memory subsystems, and IoT systems, and quantum computers such as Noisy Intermediate-Scale Computers (NISQ) and Fault-Tolerant Qnautum Computers (FTQC).
+My research topics are the best suited for students in CM and CE courses of the Department of Electrical Engineering and Computer Science (EECS).
+Students in EE course can also choose our research group.
 
 ## Research students
 
