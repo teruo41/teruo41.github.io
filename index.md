@@ -10,7 +10,7 @@ I am an Associate Professor at Faculty of Information Science and Electrical Eng
 ### Selected publications
   - Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,
-   In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), Oct. 2020 (to appear).
+   In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), pp. 1110-1125, Oct. 2022.
   - Ilkwon Byun, Junpyo Kim, Dongmoon Min, Ikki Nagaoka, Kosuke Fukumitsu, Iori Ishikawa, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Jangwoo Kim,
    ***XQsim: Modeling Cross-Technology Control Processors for 10+K Qubit Quantum Computers,***
    In Proceedings of ACM/IEEE International Symposium on Computer Architecture (ISCA '22), pp. 366-382, June 2022.
