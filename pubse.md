@@ -193,6 +193,18 @@ title: Publications
 
 ### Unpublished presentations
 
+0. Kuan Yi Ng, Takeshi Nanri, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
+   ***"Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,"***  
+   SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8 Dec. 2023
+
+0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
+   ***“Toward system-level optimization of superconducting quantum computers: The case of QAOA,”***  
+   The Joint Workshop of 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC 2023), 16th Superconducting SFQ VLSI Workshop (SSV 2023), and 2nd International Workshop of Spin/Quantum Materials and Devices (IWSQMD 2023), Nov. 2023.
+
+0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inoue, and Akira Fujimaki,
+   ***“Gate-level-pipeline SFQ circuits for high-throughput floating-point arithmetic,”***
+   Proceedings of the European Conference on Applied Superconductivity (EUCAS), Sep. 2023.
+
 0. Tesshu Nakamura, Makoto Miyamura, Koji Inoue, Satoshi Kawakami, Toshitsugu Sakamoto, Munehiro Tada, and __Teruo Tanimoto__,  
    ***Dynamically Reconfigurable Decoder Architecture for Adaptive Error Correction Using Cryogenic Non-Volatile FPGAs***,  
    Workshop and Tutorial: I too can Quantum! (I2Q) in conjunction with ISCA 2023, June 2023.
@@ -207,5 +219,5 @@ title: Publications
    (Refereed but presented in a closed conference)
 
 0. Kuan Yi Ng, Aalaa M.A. Babai, Satoshi Kawakami, __Teruo Tanimoto__, and Koji Inoue,  
-   ***Layer-wise power/performance modelling for single-board CNN inference***,
+   ***Layer-wise power/performance modeling for single-board CNN inference***,
    SIG Technical Reports, Vol.2022-ARC-248 No.13, pp.1-11, Mar. 2022.
