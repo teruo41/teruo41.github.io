@@ -28,8 +28,8 @@ title: Publications in Japanese
 
 ### 口頭発表・ポスター（査読なし）
 
-0. 中村徹舟, 宮村信, 井上弘士, 川上哲志, 阪本利司, 多田宗弘, 谷本輝夫（九大）,
-   ***極低温不揮発FPGAの再構成可能性を活用した表面符号復号器アーキテクチャの検討***,
+0. 中村徹舟, 宮村信, 井上弘士, 川上哲志, 阪本利司, 多田宗弘, __谷本輝夫__,  
+   ***極低温不揮発FPGAの再構成可能性を活用した表面符号復号器アーキテクチャの検討***,  
    第248回システム・アーキテクチャ・第205回システムとLSIの設計技術・第65回組込みシステム合同研究発表会（ETNET2024）, ポスターセッション, 2024年3月.
 
 0. 石川伊織, 鴨志田圭吾, __谷本輝夫__, 川上哲志, 田中雅光, 井上弘士,  
@@ -41,7 +41,7 @@ title: Publications in Japanese
    cross-disciplinary workshop on computing Systems, Infrastructures, and programminG (xSIG), ポスターセッション, 2023年8月.
 
 0. 上野洋典, 富田祐永, __谷本輝夫__, 田中雅光, 井上弘士, 中村宏,  
-   ***超伝導量子計算機のシステムレベル最適化に向けて～QAOAを対象とした場合～***,
+   ***超伝導量子計算機のシステムレベル最適化に向けて～QAOAを対象とした場合～***,  
    cross-disciplinary workshop on computing Systems, Infrastructures, and programminG (xSIG), ポスターセッション, 2023年8月.
 
 0. 中村徹舟， 宮村信, 井上弘士, 川上哲志, 阪本利司, 多田宗弘, __谷本 輝夫__,  
