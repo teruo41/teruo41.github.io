@@ -166,6 +166,10 @@ title: Publications
 ### Invited Talks
 
 0. __Teruo Tanimoto__,  
+   ***Architecting quantum computer systems toward larger-scale computation***,
+   [Quantum Innovation 2023 satellite workshop](https://qi2023satellite.github.io/), Nov. 2023.
+
+0. __Teruo Tanimoto__,  
    ***Research Activities toward Larger-Scale Cryogenic Quantum Computer Systems***,  
    Designers' Forum in conjunction with ASP-DAC 2023, Jan. 2023.
 
@@ -194,15 +198,15 @@ title: Publications
 ### Unpublished presentations
 
 0. Kuan Yi Ng, Takeshi Nanri, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
-   ***"Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,"***  
+   ***Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,***  
    SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8 Dec. 2023
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
-   ***“Toward system-level optimization of superconducting quantum computers: The case of QAOA,”***  
+   ***Toward system-level optimization of superconducting quantum computers: The case of QAOA,***  
    The Joint Workshop of 5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC 2023), 16th Superconducting SFQ VLSI Workshop (SSV 2023), and 2nd International Workshop of Spin/Quantum Materials and Devices (IWSQMD 2023), Nov. 2023.
 
 0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inoue, and Akira Fujimaki,
-   ***“Gate-level-pipeline SFQ circuits for high-throughput floating-point arithmetic,”***
+   ***Gate-level-pipeline SFQ circuits for high-throughput floating-point arithmetic,***
    Proceedings of the European Conference on Applied Superconductivity (EUCAS), Sep. 2023.
 
 0. Tesshu Nakamura, Makoto Miyamura, Koji Inoue, Satoshi Kawakami, Toshitsugu Sakamoto, Munehiro Tada, and __Teruo Tanimoto__,  
