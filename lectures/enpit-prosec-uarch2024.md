@@ -47,37 +47,7 @@ Docker for Windows をお使いの場合、資料中の docker コマンドの�
 
 ### Docker をインストールできない場合
 
-仮想環境として VirtualBox を利用している方向けに Docker コンテナを実行可能なイメージを配布します。  
-VirtualBox を使わなくても手元で Docker を実行できる場合は、この環境を使わなくても構いません。  
-
-#### イメージ配布 URL
-- [https://archive.iii.kyushu-u.ac.jp/public/BF5Ggo7IBW24Y-ZIR6MTvysnw7eJ7DBpkPqb7HxZsUJV](https://archive.iii.kyushu-u.ac.jp/public/BF5Ggo7IBW24Y-ZIR6MTvysnw7eJ7DBpkPqb7HxZsUJV)
-
-#### zip ファイルの md5sum
-``` 
-d55740d85d046bfb39c7c49ec8c32e0e
-```
-
-#### 仮想マシンのユーザ情報
-- ユーザ名： `uauser`
-- パスワード： `prosec-ua`  
-  （rootパスワード： `enpit-prosec-ua`）
-
-#### Docker コンテナ実行可否の確認方法
-zip ファイルを解凍し、中の `input-prosec-ua.vbox` を開いてください。
-
-仮想マシンが起動したら、 `uauser` でログインし、以下のコマンドを実行してください。
-```
-sudo docker run hello-world
-```
-
-以下のような文字列が出力されれば正しく Docker を実行できています。
-```
-This message shows that your installation appears to be working correctly
-```
-
-#### VirtualBox 使用時の注意点
-当日の演習では、VirtualBox の画面よりも大きなターミナルが必要になると思いますので、SSH などを使ってこの仮想マシンに端末エミュレータから接続できるようにしておくのをおすすめします。
+Virtualbox など仮想環境を作ることができるツールを使って、Docker を実行できるようにしてください。
 
 ## レポートに関して
 レポート提出は任意とします。  
