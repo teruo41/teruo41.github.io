@@ -51,13 +51,11 @@ Docker for Windows をお使いの場合、資料中の docker コマンドの�
 VirtualBox を使わなくても手元で Docker を実行できる場合は、この環境を使わなくても構いません。  
 
 #### イメージ配布 URL
-- [http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip](http://www8281uo.sakura.ne.jp/enpit-prosec-ua.zip)
-- 九大のOffice365にログイン可能な方は[以下](https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N)からも同じファイルをダウンロードできます。  
-  https://qu365-my.sharepoint.com/:u:/g/personal/tanimoto_teruo_547_m_kyushu-u_ac_jp/ETTl7jqqmWdLjofzgXMa6IMBlnNrXUi5gENQwhzQ9SW3uQ?e=dYn91N
+- [https://archive.iii.kyushu-u.ac.jp/public/BF5Ggo7IBW24Y-ZIR6MTvysnw7eJ7DBpkPqb7HxZsUJV](https://archive.iii.kyushu-u.ac.jp/public/BF5Ggo7IBW24Y-ZIR6MTvysnw7eJ7DBpkPqb7HxZsUJV)
 
 #### zip ファイルの md5sum
 ``` 
-1312c3b3ebfca24f38acb69fefc510cd
+d55740d85d046bfb39c7c49ec8c32e0e
 ```
 
 #### 仮想マシンのユーザ情報
