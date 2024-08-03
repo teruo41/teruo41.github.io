@@ -38,7 +38,7 @@ table, th, td {
 お手元の環境で Docker コンテナを実行してください。  
 [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
 
-可能な方は、講義までに[演習１（準備編）]({{ site.url }}/contents/enpit-prosec-uarch2022/MA-ex-1-v01.pdf)まで実施を済ませておいてください。  
+可能な方は、講義までに[演習１（準備編）]({{ site.url }}/contents/enpit-prosec-uarch2024/MA-ex-1-v01.pdf)まで実施を済ませておいてください。  
 Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。  
 2 GB 程度のファイルをダウンロードする必要があります。  
 
