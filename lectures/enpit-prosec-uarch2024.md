@@ -41,7 +41,6 @@ table, th, td {
 可能な方は、講義までに[演習１（準備編）]({{ site.url }}/contents/enpit-prosec-uarch2022/MA-ex-1-v01.pdf)まで実施を済ませておいてください。  
 Docker for Windows をお使いの場合、資料中の docker コマンドの前の sudo は不要です。  
 2 GB 程度のファイルをダウンロードする必要があります。  
-うまくいかない場合や、不明な点がある場合は、Slack の [#20221015-tanimoto](https://prosec-itseckun2022.slack.com/archives/C046440GJRY) で連絡してください。
 
 資料の文字列をコピー＆ペーストするとうまくいかない場合があります。  
 過去に AWS の T2 インスタンスで演習に挑戦した方で計算が終わらなかったケースがありました。
