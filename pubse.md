@@ -7,6 +7,10 @@ title: Publications
 
 ### Conference Papers
 
+0. Yuki Matsumoto, __Teruo Tanimoto,__ Masamitsu Tanaka, and Takatsugu Ono,  
+   ***Low-Power Half-Flux-Quantum based Counter Circuits for Cryogenic Quantum Computers,***  
+   IEEE International Conference on Quantum Computing and Engineering, pp.1007-1013, Sep. 2024.
+
 0. Yasunari Suzuki, Yosuke Ueno, Wang Liao, Masamitsu Tanaka, and __Teruo Tanimoto__,  
    ***Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing***,  
    In Proceedings of Symposium on VLSI Technology and Circuits (VLSI '23), pp. 1-2, June 2023 (invited).  
