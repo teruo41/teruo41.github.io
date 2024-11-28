@@ -104,7 +104,7 @@ title: Publications
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***Inter-Temperature Bandwidth Reduction in Cryogenic QAOA Machines,***  
-   IEEE Computer Architecture Letters (Early Access), Oct. 2023.  
+   IEEE Computer Architecture Letters, Vol. 23, no. 1, pp. 9-12, Jan.-June 2024.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/10274135)) 
    ([arXiv](https://arxiv.org/abs/2310.01630))
 
