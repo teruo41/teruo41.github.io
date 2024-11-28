@@ -166,7 +166,11 @@ title: Publications
 ### Invited Talks
 
 0. __Teruo Tanimoto__,  
-   ***Architecting quantum computer systems toward larger-scale computation***,
+   ***Toward large-scale quantum computing –from the viewpoint of computer system architecture–***,  
+   [Asian Quantum Information Science 2024](http://aqis-conf.org/2024/program), Aug. 2024.
+   
+0. __Teruo Tanimoto__,  
+   ***Architecting quantum computer systems toward larger-scale computation***,  
    [Quantum Innovation 2023 satellite workshop](https://qi2023satellite.github.io/), Nov. 2023.
 
 0. __Teruo Tanimoto__,  
