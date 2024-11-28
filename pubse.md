@@ -156,7 +156,7 @@ title: Publications
 
 0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto,__ Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
    ***SFQ counter-based precomputation for large-scale cryogenic VQE machines,***
-   Work in progress poster session in the 61st Design Automation Conference. (DAC 2024 WIP)
+   Work in progress poster session in the 61st Design Automation Conference (DAC 2024 WIP).
     ([arXiv](https://arxiv.org/abs/2403.00363))
 
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, Koji Inoue,  
@@ -212,7 +212,7 @@ title: Publications
 
 0. Kuan Yi Ng, Takeshi Nanri, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
    ***Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,***  
-   SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8 Dec. 2023
+   SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8 Dec. 2023.
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***Toward system-level optimization of superconducting quantum computers: The case of QAOA,***  
