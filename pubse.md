@@ -150,6 +150,11 @@ title: Publications
 
 ### Posters
 
+0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto,__ Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   ***SFQ counter-based precomputation for large-scale cryogenic VQE machines,***
+   Work in progress poster session in the 61st Design Automation Conference. (DAC 2024 WIP)
+    ([arXiv](https://arxiv.org/abs/2403.00363))
+
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, Koji Inoue,  
    ***Prototype Design of 32 GHz Microprocessor based on Superconducting Single-Flux-Quantum Logic,***  
    The International Conference for High Performance Computing (SC), Nov. 2019.
@@ -212,6 +217,10 @@ title: Publications
 0. Masamitsu Tanaka, Ikki Nagaoka, Satoshi Kawakami, __Teruo Tanimoto__, Takatugu Ono, Koji Inoue, and Akira Fujimaki,
    ***Gate-level-pipeline SFQ circuits for high-throughput floating-point arithmetic,***
    Proceedings of the European Conference on Applied Superconductivity (EUCAS), Sep. 2023.
+
+0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto,__ Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
+   ***Toward System-Level Optimization of Superconducting Quantum Computers: The Case of QAOA,***
+   5th Workshop on Quantum and Classical Cryogenic Devices, Circuits, and Systems (QCCC), June 2023.
 
 0. Tesshu Nakamura, Makoto Miyamura, Koji Inoue, Satoshi Kawakami, Toshitsugu Sakamoto, Munehiro Tada, and __Teruo Tanimoto__,  
    ***Dynamically Reconfigurable Decoder Architecture for Adaptive Error Correction Using Cryogenic Non-Volatile FPGAs***,  
