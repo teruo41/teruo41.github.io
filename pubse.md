@@ -7,6 +7,10 @@ title: Publications
 
 ### Conference Papers
 
+0. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
+   ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***
+   IEEE International Symposium on High-Performance Computer Architecture (HPCA-31) (accepted).
+
 0. Yuki Matsumoto, __Teruo Tanimoto,__ Masamitsu Tanaka, and Takatsugu Ono,  
    ***Low-Power Half-Flux-Quantum based Counter Circuits for Cryogenic Quantum Computers,***  
    IEEE International Conference on Quantum Computing and Engineering, pp.1007-1013, Sep. 2024.
@@ -101,6 +105,10 @@ title: Publications
 
 
 ### Journal Papers
+
+0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
+   ***C3-VQA: Cryogenic Counter-Based Co-Processor for Variational Quantum Algorithms,***  
+   IEEE Transactions on Quantum Engineering (in press).
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***Inter-Temperature Bandwidth Reduction in Cryogenic QAOA Machines,***  
