@@ -9,7 +9,7 @@ title: Publications
 
 0. Yosuke Ueno, Taku Saito, __Teruo Tanimoto__, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, and Hiroshi Nakamura,  
    ***High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture,***
-   [arXiv:2412.09299](https://arxiv.org/abs/2412.09299)
+   [arXiv:2412.09299](https://arxiv.org/abs/2412.09299).
 
 ## Publications
 
