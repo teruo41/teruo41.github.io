@@ -10,7 +10,7 @@ I am an Associate Professor at Faculty of Information Science and Electrical Eng
 ### Selected publications
   - Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
    ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***
-   IEEE International Symposium on High-Performance Computer Architecture (HPCA-31) (accepted).
+   In Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), pp. 304-320, Mar. 2024.
   - Yasunari Suzuki, Takanori Sugiyama, Tomochika Arai, Wang Liao, Koji Inoue, and __Teruo Tanimoto__,
    ***Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays***,
    In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture (MICRO-55), pp. 1110-1125, Oct. 2022.
