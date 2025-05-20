@@ -17,7 +17,8 @@ title: Publications
 
 0. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
    ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***  
-   IEEE International Symposium on High-Performance Computer Architecture (HPCA-31) (accepted).  
+   In Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), pp. 304-320, Mar. 2024.  
+   ([IEEEXplore](https://ieeexplore.ieee.org/document/10946814))
    ([arXiv:2412.20486](http://arxiv.org/abs/2412.20486))
 
 0. Yuki Matsumoto, __Teruo Tanimoto,__ Masamitsu Tanaka, and Takatsugu Ono,  
