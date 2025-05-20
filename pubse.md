@@ -118,7 +118,7 @@ title: Publications
 
 0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***C3-VQA: Cryogenic Counter-Based Co-Processor for Variational Quantum Algorithms,***  
-   IEEE Transactions on Quantum Engineering (in press).  
+   IEEE Transactions on Quantum Engineering, Vol. 6, pp.1-17, Dec. 2024.  
    ([arXiv](https://arxiv.org/abs/2409.07847)) 
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
