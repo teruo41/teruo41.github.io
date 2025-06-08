@@ -17,7 +17,7 @@ title: Publications
 
 0. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
    ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***  
-   In Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), pp. 304-320, Mar. 2024.  
+   In Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), pp. 304-320, Mar. 2025.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/10946814))
    ([arXiv:2412.20486](http://arxiv.org/abs/2412.20486))
 
@@ -140,7 +140,7 @@ title: Publications
 
 0. Koki Ishida, Ilkwon Byun, Ikki Nagaoka, Kousuke Fukumitsu, Masamitsu Tanaka, Satoshi Kawakami, __Teruo Tanimoto__, Takatsugu Ono, Jangwoo Kim, and Koji Inoue,  
    ***Superconductor Computing for Neural Networks,***   
-   IEEE Micro, vol.41, no.3, pp.19–26, May-June 2021.  
+   IEEE Micro, vol.41, no.3, pp.19-26, May-June 2021.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/9395193))
 
 0. __Teruo Tanimoto__, Takatsugu Ono, and Koji Inoue,  
@@ -194,7 +194,7 @@ title: Publications
 ### Invited Talks
 
 0. __Teruo Tanimoto__,  
-   ***Toward large-scale quantum computing –from the viewpoint of computer system architecture–***,  
+   ***Toward large-scale quantum computing -from the viewpoint of computer system architecture-***,  
    [Asian Quantum Information Science 2024](http://aqis-conf.org/2024/program), Aug. 2024.
    
 0. __Teruo Tanimoto__,  
