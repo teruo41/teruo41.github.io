@@ -116,6 +116,11 @@ title: Publications
 
 ### Journal Papers
 
+0. Pratiksha Mundhe, Yuta Hano, Satoshi Kawakami, __Teruo Taniomto__, Masamitsu Tanaka, Koji Inoue, and Ilkwon Byun,  
+   ***Approximate SFQ-based Computing Architecture Modeling with Device-level Guidelines,***  
+   IEEE Computer Architecture Letters (preprint).  
+   ([IEEEXplore](https://ieeexplore.ieee.org/document/11015563))
+
 0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***C3-VQA: Cryogenic Counter-Based Co-Processor for Variational Quantum Algorithms,***  
    IEEE Transactions on Quantum Engineering, Vol. 6, pp.1-17, Dec. 2024.  
