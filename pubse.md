@@ -234,9 +234,13 @@ title: Publications
 
 ### Unpublished presentations
 
+0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,
+   ***Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing,***  
+   SIG Technical Reports, Vol.2025-QS-15 No.x, pp.x-x, June 2025.
+
 0. Kuan Yi Ng, Takeshi Nanri, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
    ***Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,***  
-   SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8 Dec. 2023.
+   SIG Technical Reports, Vol.2023-ARC-255 No.13, pp.1-8, Dec. 2023.
 
 0. Yosuke Ueno, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
    ***Toward system-level optimization of superconducting quantum computers: The case of QAOA,***  
