@@ -238,7 +238,7 @@ title: Publications
 
 ### Unpublished presentations
 
-0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,
+0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,  
    ***Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing,***  
    SIG Technical Reports, Vol.2025-QS-15 No.x, pp.x-x, June 2025.
 
