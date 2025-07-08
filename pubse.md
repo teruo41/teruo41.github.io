@@ -236,7 +236,7 @@ title: Publications
 
 0. Shuhei Matsuo, [IPSJ SIGARC Young Researcher Award (2019)](https://www.ipsj.or.jp/award/arc-award1.html), July 2019. (The site is in Japanese.)
 
-### Unpublished presentations
+### Unpublished (non-referreed) presentations
 
 0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,  
    ***Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing,***  
