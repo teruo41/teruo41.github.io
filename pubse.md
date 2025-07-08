@@ -15,6 +15,10 @@ title: Publications
 
 ### Conference Papers
 
+0. Masumi Kanda, Yuki Matsumoto, __Teruo Tanimoto__, Masamitsu Tanaka, and Takatsugu Ono,  
+   ***Power Reduction of SFQ Readout Circuit for Superconducting Quantum Computers,***  
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering 2025 (to appear).
+
 0. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
    ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***  
    In Proceedings of the IEEE International Symposium on High-Performance Computer Architecture (HPCA-31), pp. 304-320, Mar. 2025.  
@@ -23,7 +27,7 @@ title: Publications
 
 0. Yuki Matsumoto, __Teruo Tanimoto,__ Masamitsu Tanaka, and Takatsugu Ono,  
    ***Low-Power Half-Flux-Quantum based Counter Circuits for Cryogenic Quantum Computers,***  
-   IEEE International Conference on Quantum Computing and Engineering, pp.1007-1013, Sep. 2024.
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering, pp.1007-1013, Sep. 2024.
 
 0. Yasunari Suzuki, Yosuke Ueno, Wang Liao, Masamitsu Tanaka, and __Teruo Tanimoto__,  
    ***Circuit Designs for Practical-Scale Fault-Tolerant Quantum Computing***,  
