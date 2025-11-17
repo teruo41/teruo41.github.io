@@ -34,30 +34,41 @@ title: About me
 
 ### Community activities
 #### In progress
-+ Apr. 2021 - Mar. 2023, Editorial committee member, [IPSJ Transactions on Advanced Computing Systems](https://acs.hpcc.jp/)
-+ Apr. 2020 - Mar. 2024, Secretary, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
-+ Apr. 2020 - Mar. 2024, Committee member, [IPSJ (Information Processing Society of Japan) SIGHPC](http://sighpc.hpcc.jp/)
++ Apr. 2024 - Mar. 2028, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Apr. 2024 - Mar. 2028, Committee member, [IPSJ (Information Processing Society of Japan) SIGQS](http://sigqs.ipsj.or.jp/)
 
 #### Completed
++ Oct. 2025, Publicity co-chair, [58th IEEE/ACM International Symposium on Microarchitecture (MICRO-58)](https://micro2025.ieieweb.org/2025/)
++ June 2025, General chair, The 1st workshop on Fault-Tolerant Quantum Computer System Architecture in conjunction with ISCA2025
++ Apr. 2020 - Mar. 2024, Secretary, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
++ Apr. 2020 - Mar. 2024, Committee member, [IPSJ (Information Processing Society of Japan) SIGHPC](http://sighpc.hpcc.jp/)
++ Mar. 2024, Organizing committee member, AQIS2024 satellite workshop on FTQC
++ Apr. 2021 - Mar. 2023, Editorial committee member, [IPSJ Transactions on Advanced Computing Systems](https://acs.hpcc.jp/)
 + Jan. 2019 - Dec. 2020, [Treasurer, IEEE Computer Society Fukuoka Chapter](http://sites.ieee.org/fukuoka-cs/%E5%BD%B9%E5%93%A1/) (The site is in Japanese)
 + Programm committee member, [CF 2020](http://www.computingfrontiers.org/2020/), May. 2020
 + Executive committee member, [AXIES 2019](https://axies.jp/ja/conf/conf2019) (The site is in Japanese), Dec. 2019
 + Organizing committee member, [APSCIT 2019](http://www.apscit.org/apscit2019-annual-meeting-overview), July, 2019
 + Program committee member, [xSIG 2019](http://xsig.hpcc.jp/2019/) (domestic conference), May 2019.
-
 + Apr. 2019 - Mar. 2020, Committee member, [IPSJ (Information Processing Society of Japan) SIGARCH](http://sigarc.ipsj.or.jp/)
+
+### Program comittee
++ ISCA '24, '26
++ MICRO '25
++ HPCA '26
++ CF '20
 
 ### Research Grants
 #### In progress
++ PI, Apr. 2025 to Mar. 2028, JSPS Grant-in-Aid for Scientific Research (B)
 + CI, Sep. 2023 to Mar. 2029, JST CREST
-+ CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (14,330 thousand JPY)
 + CI, Apr. 2022 to Mar. 2026, JSPS Grant-in-Aid for Scientific Research (S) (162,270 thousand JPY in total)
-+ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (6,500 thousand JPY)
-+ CI, Feb. 2022 to Nov. 2025, ["Exploring quantum computer architecture" under Yamamoto PM in Moonshot program #6](https://ms-iscqc.jp/en/) (104,000 thousand JPY in total)
-+ PI, Nov. 2020 to Mar. 2024, JST PRESTO (39,000 thousand JPY)
++ CI, Sep. 2024 to Mar. 2026, ["Exploring quantum computer architecture" under Nagayama PM in Moonshot program #6](https://ms-iscqc.jp/en/) (104,000 thousand JPY in total)
 + CI, Feb. 2020 to Mar. 2025, Q-LEAP Quantum Academy of Science and Technology
 
 #### Completed
++ PI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Early-Career Scientist (6,500 thousand JPY)
++ CI, Aug. 2022 to Mar. 2024, MEXT Feasible study for next generation computing platform (14,330 thousand JPY)
++ PI, Nov. 2020 to Mar. 2024, JST PRESTO (39,000 thousand JPY)
 + CI, Apr. 2022 to Mar. 2025, JSPS Grant-in-Aid for Scientific Research (A) (granted but declined due to conflict)
 + PI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Early-Career Scientist (4,160 thousand JPY)
 + CI, Apr. 2019 to Mar. 2022, JSPS Grant-in-Aid for Scientific Research (A) (44,980 thousand JPY in total)

@@ -203,6 +203,10 @@ title: Publications
 ### Invited Talks
 
 0. __Teruo Tanimoto__,  
+   ***Quantum computer system architecture for fault-tolerant computation,***  
+   [2nd International Workshop on Quantum, Cryogenic and Superconductive Computing (QUEST2025)](https://www.quest2025.org), Oct. 2025.
+
+0. __Teruo Tanimoto__,  
    ***Toward large-scale quantum computing -from the viewpoint of computer system architecture-***,  
    [Asian Quantum Information Science 2024](http://aqis-conf.org/2024/program), Aug. 2024.
    
