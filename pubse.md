@@ -242,9 +242,13 @@ title: Publications
 
 ### Unpublished (non-referreed) presentations
 
+0. Zhang Yuchen, Nagayama Shota, Soeda Akihito, Kawakami Satoshi, Ono Takatsugu, __Tanimoto Teruo__,  
+   ***Experimental validation of module-based discrete-event simulator of quantum interconnects,***  
+   SIG Technical Reports, Vol.2025-ARC-263 No.16, pp.1-11, Dec. 2025.
+
 0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,  
    ***Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing,***  
-   SIG Technical Reports, Vol.2025-QS-15 No.x, pp.x-x, June 2025.
+   SIG Technical Reports, Vol.2025-QS-15 No.19, pp.1-8, June 2025.
 
 0. Kuan Yi Ng, Takeshi Nanri, __Teruo Tanimoto__, Satoshi Kawakami, and Koji Inoue,  
    ***Analyzing Carbon Footprint Implications of Hardware Replacement: Preliminary Evaluation Targeting CPUs in Supercomputer Systems,***  
