@@ -120,6 +120,10 @@ title: Publications
 
 ### Journal Papers
 
+0. Koji Inoue, Ilkwon Byun, Masamitsu Tanaka, Yosuke Ueno, Naoki Takeuchi, Satoshi Kawakami, Olivia Chen, Dongmoon Min, __Teruo Tanimoto__, Takatsugu Ono, Hiroshi Nakamura and Jangwoo Kim  
+   ***Toward Ultra-High-Speed, Ultra-Low-Power Cryogenic Superconductor Computing,***  
+   IEEE Computer, Vol. 59, Issue 2, Feb. 2026.
+
 0. Pratiksha Mundhe, Yuta Hano, Satoshi Kawakami, __Teruo Taniomto__, Masamitsu Tanaka, Koji Inoue, and Ilkwon Byun,  
    ***Approximate SFQ-based Computing Architecture Modeling with Device-level Guidelines,***  
    IEEE Computer Architecture Letters (preprint).  
@@ -242,9 +246,17 @@ title: Publications
 
 ### Unpublished (non-referreed) presentations
 
-0. Zhang Yuchen, Nagayama Shota, Soeda Akihito, Kawakami Satoshi, Ono Takatsugu, __Tanimoto Teruo__,  
+0. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, Yosuke Ueno, Koji Inoue and __Teruo Tanimoto__  
+   ***Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes,***  
+   SIG Technical Reports, Vol.2026-QS-17 No.60, pp.1-8, Mar. 2026.
+
+0. Zhang Yuchen, Nagayama Shota, Soeda Akihito, Kawakami Satoshi, Ono Takatsugu and __Tanimoto Teruo__,  
    ***Experimental validation of module-based discrete-event simulator of quantum interconnects,***  
    SIG Technical Reports, Vol.2025-ARC-263 No.16, pp.1-11, Dec. 2025.
+
+0. Yuchen Zhang, Satoshi Kawakami, Takatsugu Ono and __Teruo,Tanimoto__  
+   ***Design and Implementation of a Discrete-Event Simulator of Quantum Interconnect: a case for Bell-State Swapping,***  
+   SIG Technical Reports, Vol.2025-ARC-262 No.16, pp.1-9, July 2025.
 
 0. Fan Wenxuan, Suzuki Yasunari, Inoue Koji, and __Tanimoto Teruo__,  
    ***Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing,***  
@@ -269,6 +281,10 @@ title: Publications
 0. Tesshu Nakamura, Makoto Miyamura, Koji Inoue, Satoshi Kawakami, Toshitsugu Sakamoto, Munehiro Tada, and __Teruo Tanimoto__,  
    ***Dynamically Reconfigurable Decoder Architecture for Adaptive Error Correction Using Cryogenic Non-Volatile FPGAs***,  
    Workshop and Tutorial: I too can Quantum! (I2Q) in conjunction with ISCA 2023, June 2023.
+
+0. Wang Liao, Yasunari Suzuki, __Teruo Tanimoto__, Yosuke Ueno and Yuuki, Tokunaga  
+   ***WIT-Greedy: Hardware System Design of Weighted ITerative Greedy Decoder for Surface Code,***  
+   SIG Technical Reports, Vol.2022-QS-7 No.16, pp.1-8, Oct. 2022.
 
 0. M.A. Babai Aalaa, Ng Kuan Yi, __Tanimoto Teruo__, Kawakami Satoshi, Inoue Koji,  
    ***Non-Volatile FPGA-based Intermittent Computing and Its Performance Analysis***,  
