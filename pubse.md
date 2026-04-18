@@ -17,7 +17,7 @@ title: Publications
 
 0. Masumi Kanda, Yuki Matsumoto, __Teruo Tanimoto__, Masamitsu Tanaka, and Takatsugu Ono,  
    ***Power Reduction of SFQ Readout Circuit for Superconducting Quantum Computers,***  
-   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering 2025 (to appear).
+   In Proceedings of the IEEE International Conference on Quantum Computing and Engineering 2025, pp. 969-975, Aug. 2025.
 
 0. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, __Teruo Tanimoto__, Synge Todo, and Yuuki Tokunaga,  
    ***LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing,***  
@@ -67,7 +67,7 @@ title: Publications
    In Proceedings of the 53rd IEEE/ACM International Symposium on Microarchitecture (MICRO-53), pp. 58-72, Oct. 2020.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/9251979))
 
-0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue  
+0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, and Koji Inoue,  
    ***32 GHz 6.5 mW Gate-Level-Pipelined 4-bit Processor using Superconductor Single-Flux-Quantum Logic,***  
    In Proceedings of the 2020 Symposia on VLSI Technology and Circuits, pp.1-2, June 2020.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/9162826))
@@ -120,13 +120,13 @@ title: Publications
 
 ### Journal Papers
 
-0. Koji Inoue, Ilkwon Byun, Masamitsu Tanaka, Yosuke Ueno, Naoki Takeuchi, Satoshi Kawakami, Olivia Chen, Dongmoon Min, __Teruo Tanimoto__, Takatsugu Ono, Hiroshi Nakamura and Jangwoo Kim  
+0. Koji Inoue, Ilkwon Byun, Masamitsu Tanaka, Yosuke Ueno, Naoki Takeuchi, Satoshi Kawakami, Olivia Chen, Dongmoon Min, __Teruo Tanimoto__, Takatsugu Ono, Hiroshi Nakamura and Jangwoo Kim,  
    ***Toward Ultra-High-Speed, Ultra-Low-Power Cryogenic Superconductor Computing,***  
    IEEE Computer, Vol. 59, Issue 2, Feb. 2026.
 
-0. Pratiksha Mundhe, Yuta Hano, Satoshi Kawakami, __Teruo Taniomto__, Masamitsu Tanaka, Koji Inoue, and Ilkwon Byun,  
+0. Pratiksha Mundhe, Yuta Hano, Satoshi Kawakami, __Teruo Tanimoto__, Masamitsu Tanaka, Koji Inoue, and Ilkwon Byun,  
    ***Approximate SFQ-based Computing Architecture Modeling with Device-level Guidelines,***  
-   IEEE Computer Architecture Letters (preprint).  
+   IEEE Computer Architecture Letters, vol. 24, no. 2, pp 253-256 July-Dec. 2025.  
    ([IEEEXplore](https://ieeexplore.ieee.org/document/11015563))
 
 0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto__, Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, and Hiroshi Nakamura,  
