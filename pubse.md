@@ -232,15 +232,23 @@ title: Publications
 
 ### Awards
 
+0. [IPSJ Computer Science Contribution Award (2025)](https://www.ipsj.or.jp/award/cs-koseki-award-2025.html), Oct. 2025. (The site is in Japanese.)
+
 0. APSCIT Computer Science and Informatics Research Contribution Award (2019), July 2019.
 
 0. [Quick Report on Doctoral Theses Recommended by IPSJ SIGs (2017)](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html), May 2018. (The site is in Japanese.)
 
 0. [IPSJ Computer Science Research Award for Young Scientists (2017)](http://www.ipsj.or.jp/award/cs-award-2017.html), Nov. 2017. (The site is in Japanese.)
 
+0. Teruo Tanimoto, [IEICE CPSY Outstanding Presentation Award for Young Researchers (2016)](https://www.ieice.org/~cpsy/award.shtml), July 2017. (The site is in Japanese.)
+
 0. [IPSJ SIGARC Young Researcher Award (2016)](https://www.ipsj.or.jp/award/arc-award1.html), Oct. 2016. (The site is in Japanese.)
 
 ### Awards for my students
+
+0. Wenxuan Fan, [IPSJ SIGQS Student Encouragement Award (2025)](https://www.ipsj.or.jp/award/qs-award2.html), July 2026. (The site is in Japanese.)
+
+0. Yuchen Zhang, [IEICE CPSY Outstanding Presentation Award for Young Researchers (2025)](https://www.ieice.org/~cpsy/award.shtml), Jan. 2026. (The site is in Japanese.)
 
 0. Shuhei Matsuo, [IPSJ SIGARC Young Researcher Award (2019)](https://www.ipsj.or.jp/award/arc-award1.html), July 2019. (The site is in Japanese.)
 

@@ -261,6 +261,8 @@ title: Publications in Japanese
 
 ### 受賞
 
+0. [情報処理学会 2025年度コンピュータサイエンス領域功績賞](https://www.ipsj.or.jp/award/cs-koseki-award-2025.html) 2025年10月.
+
 0. APSCIT Computer Science and Informatics Research Contribution Award (2019)，2019年7月.
 
 0. [情報処理学会 2017年度研究会推薦博士論文](http://ipsj.or.jp/magazine/hakase/2017/ARC04.html)，2018年5月．
@@ -272,6 +274,10 @@ title: Publications in Japanese
 0. [情報処理学会 システム・アーキテクチャ研究会(SIGARC) 2016年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html)，2016年10月．
 
 ### 指導学生の受賞
+
+0. Wenxuan Fan, [情報処理学会 量子ソフト研究会(SIGQS) 2025年度学生奨励賞](https://www.ipsj.or.jp/award/qs-award2.html)，2026年5月．
+
+0. Yuchen Zhang, [電子情報通信学会 コンピュータシステム研究専門委員会(CPSY) 2025年度研究会優秀若手発表賞](http://www.ieice.org/~cpsy/award.shtml)，2026年1月．
 
 0. 松尾脩平, [情報処理学会 システム・アーキテクチャ研究会(SIGARC) 2019年度若手奨励賞](https://www.ipsj.or.jp/award/arc-award1.html), 2019年7月.
 
