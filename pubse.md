@@ -190,9 +190,14 @@ title: Publications
 
 ### Posters
 
-0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto,__ Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,
-   ***SFQ counter-based precomputation for large-scale cryogenic VQE machines,***
-   Work in progress poster session in the 61st Design Automation Conference (DAC 2024 WIP).
+0. Yuchen Zhang, Shota Nagayama, Akihito Soeda, Satoshi Kawakami, Takatsugu Ono, __Teruo Tanimoto,__  
+   ***Experimental validation of module-based discrete-event simulator of quantum interconnects,***  
+   The 54th Quantum Information Technology Symposium (QIT54), May 2026.  
+   ([Web site](https://ken.ieice.org/ken/paper/202605279cvY/))
+
+0. Yosuke Ueno, Satoshi Imamura, Yuna Tomida, __Teruo Tanimoto,__ Masamitsu Tanaka, Yutaka Tabuchi, Koji Inoue, Hiroshi Nakamura,  
+   ***SFQ counter-based precomputation for large-scale cryogenic VQE machines,***  
+   Work in progress poster session in the 61st Design Automation Conference (DAC 2024 WIP).  
     ([arXiv](https://arxiv.org/abs/2403.00363))
 
 0. Koki Ishida, Masamitsu Tanaka, Ikki Nagaoka, Takatsugu Ono, Satoshi Kawakami, __Teruo Tanimoto__, Akira Fujimaki, Koji Inoue,  
